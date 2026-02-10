@@ -24,3 +24,24 @@ Remember our previous slide that showed the methodologies, specialties, and arti
 ## Design at CivicActions
 <img width="571" height="313" alt="what does the CA design team do." src="https://github.com/user-attachments/assets/8f5897dd-d168-4045-b21b-9f8c28b764b9" />
 
+Design at CivicActions spans many dimensions. We're both generalists and specialists, and design titles can be confusing from the outside. So instead of thinking about which design roles we have at CA, let's reframe our thinking to what the design team does.
+
+### What we do
+Designers at CivicActions design
+
+- Systems: the underlying architecture that powers services.
+- Processes: how people and information move through a service.
+- Structures: content and data models, information architecture, and decision paths.
+- Governance: how content, patterns, and services are maintained.
+- Content: what people read, hear, understand, and interact with.
+- Interactions: how people engage with tools, forms, and flows.
+- Data experiences: how information is collected, displayed, and understood.
+- Connections: between people, systems, policies, and touchpoints.
+- Trust: by making services clear, inclusive, and accessible.
+- Outcomes: not just artifacts but real-world impact for users and agencies.
+
+## HCD in the QMS
+<img width="566" height="319" alt="HCD in our QMS" src="https://github.com/user-attachments/assets/a2184b7e-4567-414f-8bf2-5963e618cb04" />
+
+
+
