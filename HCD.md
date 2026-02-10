@@ -40,8 +40,10 @@ Designers at CivicActions design
 - Trust: by making services clear, inclusive, and accessible.
 - Outcomes: not just artifacts but real-world impact for users and agencies.
 
-## HCD in the QMS
-<img width="566" height="319" alt="HCD in our QMS" src="https://github.com/user-attachments/assets/a2184b7e-4567-414f-8bf2-5963e618cb04" />
+## HCD in our Quality Management System
+<img width="473" height="261" alt="CA quality management policy" src="https://github.com/user-attachments/assets/077fbd05-3abf-45fd-b35a-961c10c26e7e" />
 
+The CivicActions quality management system policy is all about quality delivery. In it, we have defined objectives for human-centered design that revolve around our competency as a company in HCD. These objectives must be deomstrable as we pursure the ISO 9001 certification and then later CMMI certification, both of which help us not just mature as a company, but also make us eligible for new work. 
 
+### HCD Demonstrated
 
