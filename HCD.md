@@ -27,7 +27,8 @@ Remember our previous slide that showed the methodologies, specialties, and arti
 Design at CivicActions spans many dimensions. We're both generalists and specialists, and design titles can be confusing from the outside. So instead of thinking about which design roles we have at CA, let's reframe our thinking to what the design team does.
 
 ### What we do
-Designers at CivicActions design
+Designers at CivicActions design:
+
 <!-- incremental -->
 + Systems: the underlying architecture that powers services.
 + Processes: how people and information move through a service.
@@ -48,18 +49,22 @@ The CivicActions quality management system policy is all about quality delivery.
 ### HCD demonstrated
 <img width="574" height="261" alt="Examples include training, certifications, and prodev" src="https://github.com/user-attachments/assets/db83b4dd-2377-4784-9cdc-823ac7212205" />
 
-You might be asking, "How can we demonstrate our HCD competency?" Providing this HCD training is one way. This training is mandatory for all employees to ensure they understand what HCD is and how to incorporate it into their practice areas. We share our best practices across the company so that everyone is an HCD advocate. But we don't stop there. We also expand our certifications beyond the design umbrella, bringing our HCD knowledge and expertise into them. For example, some of our designers are also Drupal Site Builder certified. Some of our designers have earned their Certified Professional in Accessibility Core Competencies (CPACC) certifications. And we continuously pursue professional development opportunities, such as taking courses in data science, AI, analytics, and more. Bringing the HCD lens to these new certifications and courses helps bridge the gap across practice areas here at CA.
+You might be asking, "How can we demonstrate our HCD competency?" Providing this HCD training is one way. This training is mandatory for all employees to ensure they understand what HCD is and how to incorporate it into their practice areas. We share our best practices across the company so that everyone is an HCD advocate.</br>
+But we don't stop there. We also expand our certifications beyond the design umbrella, bringing our HCD knowledge and expertise into them. For example, some of our designers are also Drupal Site Builder certified. Some of our designers have earned their Certified Professional in Accessibility Core Competencies (CPACC) certifications.</br>
+Additionally, we continuously pursue professional development opportunities, including courses in data science, AI, analytics, and more. Bringing the HCD lens to these new certifications and courses helps bridge the gap across practice areas here at CA.
 
 ### QMS relevance
 <img width="573" height="250" alt="HCD is a core component of our QMS" src="https://github.com/user-attachments/assets/fd9b6bbe-8e89-42e5-ae16-8d72d4481e9b" />
 
 So why is human-centered design a core component of our QMS? Well, ISO 9001 emphasizes understanding customer needs, meeting requirements, and improving satisfaction. HCD provides the operational method for doing this consistently. HCD:
-* Reduces defects, rework, and downstream risk.
-* Improves consistency and repeatability.
-* Enhances stakeholder engagement and communication.
-* Drives continual improvement.
-* Supports objective, evidence-based decision making.
-* Strengthens outcomes for mission-critical, high-impact services. 
+
+<!-- incremental -->
++ Reduces defects, rework, and downstream risk.
++ Improves consistency and repeatability.
++ Enhances stakeholder engagement and communication.
++ Drives continual improvement.
++ Supports objective, evidence-based decision making.
++ Strengthens outcomes for mission-critical, high-impact services. 
 
 ## The International Standard
 <img width="650" height="364" alt="HCD International Standard" src="https://github.com/user-attachments/assets/b226efc4-a272-439c-b04f-acb335279b0b" />
@@ -68,6 +73,8 @@ The International Standard for Human-Centered Design for interactive systems, IS
 
 ### The principles
 A human-centered design process must adhere to six core principles:
+
+<!-- incremental -->
 1. Design is based on a clear understanding of users, tasks, and environments.
 2. Users are involved throughout design and development.
 3. Design is driven by, and refined through, user-centered evaluation.
@@ -139,72 +146,90 @@ Taking a human-centered approach to our solutioning and product delivery involve
 
 ### Program manager
 As a program manager, you can practice HCD by:
-* Advocating for design staffing with stakeholders and partners.
-* Supporting shared DesignOps practices across teams.
-* Making user context a standing input to planning.
-* Facilitating cross-disciplinary alignment around user goals.
-* Driving continuous learning loops.
+
+<!-- incremental -->
++ Advocating for design staffing with stakeholders and partners.
++ Supporting shared DesignOps practices across teams.
++ Making user context a standing input to planning.
++ Facilitating cross-disciplinary alignment around user goals.
++ Driving continuous learning loops.
 
 ### Product manager
 As a product manager, you can practice HCD by:
-* Framing the problems in user terms.
-* Validating assumptions early.
-* Prioritizing based on user value.
-* Sharing insights visibly across teams.
-* Championing early testing of ideas.
+
+<!-- incremental -->
++ Framing the problems in user terms.
++ Validating assumptions early.
++ Prioritizing based on user value.
++ Sharing insights visibly across teams.
++ Championing early testing of ideas.
 
 ### Project manager
 As a project manager, you can practice HCD by:
-* Planning work so research and testing are baked in.
-* Keeping user insights visible through the project lifecycle.
-* Protecting team time for discovery.
-* Aligning disciplines around user needs, not tasks.
-* Tracking user-impact metrics.
+
+<!-- incremental -->
++ Planning work so research and testing are baked in.
++ Keeping user insights visible through the project lifecycle.
++ Protecting team time for discovery.
++ Aligning disciplines around user needs, not tasks.
++ Tracking user-impact metrics.
 
 ### Scrum master
 As a scrum master, you can practice HCD by:
-* Bringing user insights into ceremonies.
-* Writing stories emphasizing user value.
-* Encouraging experimentation and learning.
-* Facilitating empathy-building within the team.
-* Removing barriers to user contact.
+
+<!-- incremental -->
++ Bringing user insights into ceremonies.
++ Writing stories emphasizing user value.
++ Encouraging experimentation and learning.
++ Facilitating empathy-building within the team.
++ Removing barriers to user contact.
 
 ### Frontend engineer
 As a frontend engineer, you can practice HCD by:
-* Implementing accessible, usable interfaces.
-* Participating in testing and observing user behavior.
-* Prototyping interactions early.
-* Asking clarifying questions about user intent.
-* Optimizing for real-world use and performance.
+
+<!-- incremental -->
++ Implementing accessible, usable interfaces.
++ Participating in testing and observing user behavior.
++ Prototyping interactions early.
++ Asking clarifying questions about user intent.
++ Optimizing for real-world use and performance.
 
 ### Backend engineer
 As a backend engineer, you can practice HCD by:
-* Understanding the workflows that rely on backend logic,
-* Prioritizing data correctness and meaningful errors.
-* Attending research debriefs.
-* Building for flexibility as user needs evolve.
-* Simplifying complexity when it benefits users.
+
+<!-- incremental -->
++ Understanding the workflows that rely on backend logic,
++ Prioritizing data correctness and meaningful errors.
++ Attending research debriefs.
++ Building for flexibility as user needs evolve.
++ Simplifying complexity when it benefits users.
 
 ### Data analyst
 As a data analyst, you can practice HCD by:
-* Tying quantitative data to human behavior.
-* Implementing metrics that reflect tasks and outcomes.
-*  Identifying friction points with behavioral patterns.
-*  Validating interpretations with research and design.
-*  Illustrating insights through stories and visuals.
+
+<!-- incremental -->
++ Tying quantitative data to human behavior.
++ Implementing metrics that reflect tasks and outcomes.
++ Identifying friction points with behavioral patterns.
++ Validating interpretations with research and design.
++ Illustrating insights through stories and visuals.
 
 ### Leadership
 As a member of the company leadership, you can practice HCD by:
-* Sponsoring continuous research.
-* Requiring user insight in decision processes.
-* Staying in contact with actual users.
-* Promoting long-term user value.
-* Rewarding learning-driven course correction.
+
+<!-- incremental -->
++ Sponsoring continuous research.
++ Requiring user insight in decision processes.
++ Staying in contact with actual users.
++ Promoting long-term user value.
++ Rewarding learning-driven course correction.
 
 ## When to Include Design
 <img width="952" height="158" alt="HCD red flags" src="https://github.com/user-attachments/assets/c3544d1f-ab01-4ed6-a136-bea5b507a078" />
 
 The best time to include design is from the very beginning. However, if you see any of these red flags, it means you're deviating from the CivicActions approach to human-centered design. These are clear, practical indicators that should prompt project managers, engineers, product owners, data specialists, or leadership to bring designers in:
+
+<!-- incremental -->
 * There's a breakdown in understanding users or the problem.
     * When a team can't confidently articulate who the users are, what they need, or why the problem matters, design is needed.
 * There's confusion about scope, vision, or priorities.
@@ -223,6 +248,8 @@ The best time to include design is from the very beginning. However, if you see 
     * This is a classic signal that design needs to step in.
  
 Lastly, if your team starts saying any of the following or similar phrases, it should be an automatic signal to bring design in or to calibrate your project's HCD approach: 
+
+<!-- incremental -->
 * "We think the user will probably..."
 * "Let's just build it and see."
 * "We don't have time for research."
@@ -231,7 +258,7 @@ Lastly, if your team starts saying any of the following or similar phrases, it s
 * "We'll know if it works once it's in production."
 
 ## Looking Forward
-Now that you understand the international standards and how we can all participate in human-centered design, let's look to the future of design. There are many things changing in our world, not only year after year but sometimes as quickly as week to week. It's more important than ever before that we take a human-centered approach. The way we work and design processes are changing. For us, there are two key things we're tracking.
+Now that you understand the international standards and how we can all participate in human-centered design, let's look to the future of design. There are many things changing in our world, not only year after year but sometimes as quickly as week to week. It's more important than ever before that we take a human-centered approach. The way we work and our design processes are changing. For us, there are two key things we're tracking.
 
 ### AI
 <img width="536" height="300" alt="AI generated prototype" src="https://github.com/user-attachments/assets/3d3cb898-e1d7-4ae6-bff4-e90a7f40452e" />
@@ -253,6 +280,8 @@ This isn't a design award. It's a teamwork award that celebrates HCD leadership 
 
 ## Conclusion
 Being human-centered makes us all better partners to clients. It helps us:
+
+<!-- incremental -->
 * Be proactive instead of reactive.
 * Reduce risk through early learning.
 * Guide teams toward evidence-based decisions.
