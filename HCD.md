@@ -28,17 +28,25 @@ Design at CivicActions spans many dimensions. We're both generalists and special
 
 ### What we do
 Designers at CivicActions design:
-<!-- incremental -->
 
 + Systems: the underlying architecture that powers services.
+--
 + Processes: how people and information move through a service.
+--
 + Structures: content and data models, information architecture, and decision paths.
+--
 + Governance: how content, patterns, and services are maintained.
+--
 + Content: what people read, hear, understand, and interact with.
+--
 + Interactions: how people engage with tools, forms, and flows.
+--
 + Data experiences: how information is collected, displayed, and understood.
+--
 + Connections: between people, systems, policies, and touchpoints.
+--
 + Trust: by making services clear, inclusive, and accessible.
+--
 + Outcomes: not just artifacts but real-world impact for users and agencies.
 
 ## HCD in our Quality Management System
