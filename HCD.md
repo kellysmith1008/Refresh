@@ -28,8 +28,8 @@ Design at CivicActions spans many dimensions. We're both generalists and special
 
 ### What we do
 Designers at CivicActions design:
-
 <!-- incremental -->
+
 + Systems: the underlying architecture that powers services.
 + Processes: how people and information move through a service.
 + Structures: content and data models, information architecture, and decision paths.
