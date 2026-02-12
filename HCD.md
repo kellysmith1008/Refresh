@@ -140,6 +140,35 @@ While the core activities are fixed, ISO 9241-210 also asserts a few supporting 
 
 HCD must fit into agile, waterfall, or hybrid structures without being sidelined. 
 
+## Checkpoint quiz
+?[quizstart.webm](https://github.com/user-attachments/assets/d7c1e995-c489-4c3d-bbd7-6bf5e6d39466)
+
+Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
+
+### What is Human-Centered Design at CivicActions?
+- [( )] A set of design deliverables
+- [(X)] A mindset and approach that grounds decisions in the lived experiences of real users
+- [( )] A visual design method
+- [( )] A step-by-step project management process
+
+### Which international standard outlines required activities and principles of a human-centered design process?
+- [( )] ISO 9001
+- [( )] CMMI Level 3
+- [(X)] ISO 9241-210
+- [( )] WCAG 2.2
+
+### Which of the following is one of the four required HCD activities per ISO 9241-210?
+- [[X]] Specify user requirements
+- [[ ]] Develop a project charter
+- [[ ]] Build production ready code
+- [[ ]] Conduct stakeholder retrospectives
+
+### What's one reason HCD strengthens CivicActions' Quality Management System (QMS)??
+- [( )] It reduces the need for user involvement
+- [( )] It increases documentation volume
+- [( )] It replaces the need for project planning
+- [(X)] It provides evidence-based methods to understand and meet user needs
+
 ## How You Can Practice HCD
 Taking a human-centered approach to our solutioning and product delivery involves collaboration from all people within our organization. Let's break down the different roles and give examples of how they can practice HCD. Pay close attention to your specific role, but also take the time to reflect on all the roles. In a lot of ways, the examples are similar, and incorporating HCD is a shared responsibility.
 
@@ -256,6 +285,24 @@ Lastly, if your team starts saying any of the following or similar phrases, it s
 * "We can fix the UX later."
 * "We'll know if it works once it's in production."
 
+## Checkpoint quiz
+?[quizstart.webm](https://github.com/user-attachments/assets/d7c1e995-c489-4c3d-bbd7-6bf5e6d39466)
+
+### Which roles share responsbility for practicing HCD at CivicActions? (select all that apply)
+- [[ ]] Contracting officer
+- [[X]] Project manager
+- [[X]] Frontend engineer
+- [[ ]] COR
+- [[X]] Leadership
+- [[X]] Product manager
+- [[X]] Backend engineer
+
+### Which phrase is a red flag indicating the team may be deviating from HCD?
+- [( )] "Let's validate this with users"
+- [( )] "What evidence do we have for this?"
+- [(X]] "We think the user will probably..."
+- [( )] "Let's schedule usability testing"
+
 ## Looking Forward
 Now that you understand the international standards and how we can all participate in human-centered design, let's look to the future of design. There are many things changing in our world, not only year after year but sometimes as quickly as week to week. It's more important than ever before that we take a human-centered approach. The way we work and our design processes are changing. For us, there are two key things we're tracking.
 
@@ -276,6 +323,21 @@ Another important administrative priority we're monitoring is the National Desig
 
 Officially kicking off in 2026, we are proud to introduce the Design Amplifier Award. We want to formally recognize people across all roles who elevate design best practices. The award highlights behaviors such as curiosity, collaboration, user advocacy, and a willingness to engage with evidence, users, and designers.</br>
 This isn't a design award. It's a teamwork award that celebrates HCD leadership across the company. The first nominations to celebrate design amplifiers across the company open in the spring of 2026.
+
+## Checkpoint quiz
+?[quizstart.webm](https://github.com/user-attachments/assets/d7c1e995-c489-4c3d-bbd7-6bf5e6d39466)
+
+### Why should teams involve the design team when experimenting with AI-generated assets?
+- [( )] Designers must approve all tool usage
+- [( )] AI can't create visuals
+- [( ]] AI is only used for backend development
+- [(X)] Humans must remain in the review loop for any client-facing or public-facing visual aassets
+
+### What is the purpose of the new Design Amplifier Award?
+- [(X)] To celebrate HCD leadership and collaboration across all roles
+- [( )] To recognize only visual design excellence
+- [( ]] To award designers for their deliverables
+- [( )] To select finalists for design conferences
 
 ## Conclusion
 Being human-centered makes us all better partners to clients. It helps us:
