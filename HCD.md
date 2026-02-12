@@ -1,5 +1,5 @@
 # Human-Centered Design Training
-Welcome to the Human-Centered Design training. In this module, we'll define human-centered design (HCD), outline the standards we strive for, and explain what it means for us here at CivicActions. This training is key to raising awareness across the company. This training provides the context for us to understand and embrace this initiative.
+Welcome to the Human-Centered Design training. In this module, we'll define human-centered design (HCD), outline the standards we strive to meet, and explain what it means to us here at CivicActions. This training is key to raising awareness across the company. This training provides the context for us to understand and embrace this initiative.
 
 ## Overview
 <img width="602" height="316" alt="agenda" src="https://github.com/user-attachments/assets/71b8504f-a818-4deb-b716-ca6ce25fcb06" />
@@ -14,7 +14,7 @@ Let's start by zooming out to better define design. Design is a wide-ranging dis
 ## Human-Centered Design
 <img width="570" height="264" alt="HCD at CivicActions includes considering user needs, experiences, constraints, usability, accessibility, and practical application" src="https://github.com/user-attachments/assets/557f5928-47c3-4316-a9c2-482ac2fecde6" />
 
-Human-centered design is the way we solve problems by keeping the user at the forefront of our designs. We consider the lived experiences, needs, and constraints of those who use or deliver government services. It's how we ensure the digital government work we do is usable, accessible, practical, and scalable in the real public-sector environments. But how do we apply HCD practices to our designs?
+Human-centered design is the approach we use to solve problems by keeping the user at the forefront of our designs. We consider the lived experiences, needs, and constraints of those who use or deliver government services. It's how we ensure the digital government work we do is usable, accessible, practical, and scalable in the real public-sector environments. But how do we apply HCD practices to our designs?
 
 ### The HCD umbrella
 <img width="572" height="263" alt="three groupings of design include methodologies, specialities, and artifacts" src="https://github.com/user-attachments/assets/a137d451-0d4b-4c12-81bf-7175a83c9bfe" />
@@ -43,7 +43,7 @@ Designers at CivicActions design:
 ## HCD in our Quality Management System
 <img width="473" height="261" alt="CA quality management policy" src="https://github.com/user-attachments/assets/077fbd05-3abf-45fd-b35a-961c10c26e7e" />
 
-The CivicActions quality management system policy is all about quality delivery. In it, we have defined objectives for human-centered design that focus on our company's competency in HCD. These objectives must be demonstrable as we pursue ISO 9001 certification and later CMMI certification, both of which help us not only mature as a company but also become eligible for new work. 
+The CivicActions quality management system policy is all about quality delivery. In it, we have defined objectives for human-centered design that focus on our company's HCD competency. These objectives must be demonstrable as we pursue ISO 9001 certification and later CMMI certification, both of which help us not only mature as a company but also become eligible for new work. 
 
 ### HCD demonstrated
 <img width="574" height="261" alt="Examples include training, certifications, and prodev" src="https://github.com/user-attachments/assets/db83b4dd-2377-4784-9cdc-823ac7212205" />
@@ -151,7 +151,7 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 - [( )] A visual design method
 - [( )] A step-by-step project management process
 
-### Which international standard outlines required activities and principles of a human-centered design process?
+### Which international standard outlines the required activities and principles of a human-centered design process?
 - [( )] ISO 9001
 - [( )] CMMI Level 3
 - [(X)] ISO 9241-210
@@ -160,7 +160,7 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 ### Which of the following is one of the four required HCD activities per ISO 9241-210?
 - [[X]] Specify user requirements
 - [[ ]] Develop a project charter
-- [[ ]] Build production ready code
+- [[ ]] Build production-ready code
 - [[ ]] Conduct stakeholder retrospectives
 
 ### What's one reason HCD strengthens CivicActions' Quality Management System (QMS)??
@@ -170,7 +170,7 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 - [(X)] It provides evidence-based methods to understand and meet user needs
 
 ## How You Can Practice HCD
-Taking a human-centered approach to our solutioning and product delivery involves collaboration from all people within our organization. Let's break down the different roles and give examples of how they can practice HCD. Pay close attention to your specific role, but also take the time to reflect on all the roles. In a lot of ways, the examples are similar, and incorporating HCD is a shared responsibility.
+Taking a human-centered approach to our solutioning and product delivery involves collaboration from everyone in our organization. Let's break down the different roles and give examples of how they can practice HCD. Pay close attention to your specific role, but also take the time to reflect on all the roles. In many ways, the examples are similar, and incorporating HCD is a shared responsibility.
 
 ### Program manager
 As a program manager, you can practice HCD by:
@@ -288,7 +288,7 @@ Lastly, if your team starts saying any of the following or similar phrases, it s
 ## Checkpoint quiz
 ?[quizstart.webm](https://github.com/user-attachments/assets/d7c1e995-c489-4c3d-bbd7-6bf5e6d39466)
 
-### Which roles share responsbility for practicing HCD at CivicActions? (select all that apply)
+### Which roles share responsibility for practicing HCD at CivicActions? (select all that apply)
 - [[ ]] Contracting officer
 - [[X]] Project manager
 - [[X]] Frontend engineer
@@ -298,10 +298,10 @@ Lastly, if your team starts saying any of the following or similar phrases, it s
 - [[X]] Backend engineer
 
 ### Which phrase is a red flag indicating the team may be deviating from HCD?
-- [( )] "Let's validate this with users"
+- [( )] "Let's validate this with users."
 - [( )] "What evidence do we have for this?"
 - [(X]] "We think the user will probably..."
-- [( )] "Let's schedule usability testing"
+- [( )] "Let's schedule usability testing."
 
 ## Looking Forward
 Now that you understand the international standards and how we can all participate in human-centered design, let's look to the future of design. There are many things changing in our world, not only year after year but sometimes as quickly as week to week. It's more important than ever before that we take a human-centered approach. The way we work and our design processes are changing. For us, there are two key things we're tracking.
@@ -331,7 +331,7 @@ This isn't a design award. It's a teamwork award that celebrates HCD leadership 
 - [( )] Designers must approve all tool usage
 - [( )] AI can't create visuals
 - [( ]] AI is only used for backend development
-- [(X)] Humans must remain in the review loop for any client-facing or public-facing visual aassets
+- [(X)] Humans must remain in the review loop for any client-facing or public-facing visual assets
 
 ### What is the purpose of the new Design Amplifier Award?
 - [(X)] To celebrate HCD leadership and collaboration across all roles
