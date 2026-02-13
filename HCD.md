@@ -1,10 +1,10 @@
 # Human-Centered Design Training
-Welcome to the Human-Centered Design training. In this module, we'll define human-centered design (HCD), outline the standards we strive to meet, and explain what it means to us here at CivicActions. This training is key to raising awareness across the company. This training provides the context for us to understand and embrace this initiative.
+Welcome to the Human-Centered Design training. In this module, we'll define human-centered design (HCD), outline the standards we strive to meet, and explain what it means to us here at CivicActions. This training is key to raising awareness across the company and provides the context for us to understand and embrace this initiative.
 
 ## Overview
 <img width="602" height="316" alt="agenda" src="https://github.com/user-attachments/assets/71b8504f-a818-4deb-b716-ca6ce25fcb06" />
 
-Let's take a look at the topics we'll cover in this training. We'll talk about what Human-Centered Design (HCD) is, the standards that can ground us, and what each of us can do to continuously put real people at the center of our delivery. We'll close by highlighting our Design Amplifier Award and sharing how you can nominate someone for it. Let's get started!
+Let's take a look at the topics we'll cover in this training. We'll talk about what Human-Centered Design (HCD) is, the standards that can ground us, and what each of us can do to continuously put real people at the center of our delivery. We'll close by highlighting our Design Amplifier Award and we'll share how you can nominate someone for it. Let's get started!
 
 ## What Is Design?
 <img width="572" height="263" alt="three groupings of design include methodologies, specialities, and artifacts" src="https://github.com/user-attachments/assets/a137d451-0d4b-4c12-81bf-7175a83c9bfe" />
@@ -19,7 +19,7 @@ Human-centered design is the approach we use to solve problems by keeping the us
 ### The HCD umbrella
 <img width="572" height="263" alt="three groupings of design include methodologies, specialities, and artifacts" src="https://github.com/user-attachments/assets/a137d451-0d4b-4c12-81bf-7175a83c9bfe" />
 
-Remember our previous slide that showed the methodologies, specialties, and artifacts? We treat HCD as the overarching approach that unifies all our methods, practices, and ways of working. No matter which design methodology we use or which discipline we apply, our work always centers around real people and real experiences. 
+Let's take another look at the slide that showed the methodologies, specialties, and artifacts to help illustrate how we practice HCD. We treat HCD as the overarching approach that unifies all our methods, practices, and ways of working. No matter which design method we use or which discipline we apply, our work always centers around real people and real experiences. 
 
 ## Design at CivicActions
 <img width="571" height="313" alt="what does the CA design team do." src="https://github.com/user-attachments/assets/8f5897dd-d168-4045-b21b-9f8c28b764b9" />
@@ -27,19 +27,16 @@ Remember our previous slide that showed the methodologies, specialties, and arti
 Design at CivicActions spans many dimensions. We're both generalists and specialists, and design titles can be confusing from the outside. So instead of thinking about which design roles we have at CA, let's reframe our thinking to what the design team does.
 
 ### What we do
-Designers at CivicActions design:
-
-+ Systems: the underlying architecture that powers services.
-+ Processes: how people and information move through a service.
-+ Structures: content and data models, information architecture, and decision paths.
-+ Governance: how content, patterns, and services are maintained.
-+ Content: what people read, hear, understand, and interact with.
-+ Interactions: how people engage with tools, forms, and flows.
-+ Data experiences: how information is collected, displayed, and understood.
-+ Connections: between people, systems, policies, and touchpoints.
-+ Trust: by making services clear, inclusive, and accessible.
-+ Outcomes: not just artifacts but real-world impact for users and agencies.
-
++ Systems: the underlying architecture that powers services. {1}{show ***first***}
++ Processes: how people and information move through a service. {2}{show ***second***}
++ Structures: content and data models, information architecture, and decision paths. {3}{show ***third***}
++ Governance: how content, patterns, and services are maintained. {4}{show ***fourth***}
++ Content: what people read, hear, understand, and interact with. {5}{show ***fifth***}
++ Interactions: how people engage with tools, forms, and flows. {6}{show ***sixth***}
++ Data experiences: how information is collected, displayed, and understood. {7}{show ***seventh***}
++ Connections: between people, systems, policies, and touchpoints. {8}{show ***eighth***}
++ Trust: by making services clear, inclusive, and accessible. {9}{show ***ninth***}
++ Outcomes: not just artifacts but real-world impact for users and agencies. {10}{show ***tenth***}
 ## HCD in our Quality Management System
 <img width="473" height="261" alt="CA quality management policy" src="https://github.com/user-attachments/assets/077fbd05-3abf-45fd-b35a-961c10c26e7e" />
 
