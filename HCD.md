@@ -341,6 +341,8 @@ Lastly, if your team starts saying any of the following or similar phrases, it s
 ## Checkpoint quiz
 ?[quizstart.webm](https://github.com/user-attachments/assets/d7c1e995-c489-4c3d-bbd7-6bf5e6d39466)
 
+Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
+
 ### Which roles share responsibility for practicing HCD at CivicActions? (select all that apply)
 - [[ ]] Contracting officer
 - [[X]] Project manager
@@ -387,6 +389,8 @@ This isn't a design award. It's a teamwork award that celebrates HCD leadership 
 
 ## Checkpoint quiz
 ?[quizstart.webm](https://github.com/user-attachments/assets/d7c1e995-c489-4c3d-bbd7-6bf5e6d39466)
+
+Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
 
 ### Why should teams involve the design team when experimenting with AI-generated assets?
 - [( )] Designers must approve all tool usage
