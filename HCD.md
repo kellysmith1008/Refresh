@@ -27,16 +27,17 @@ Let's take another look at the slide that showed the methodologies, specialties,
 Design at CivicActions spans many dimensions. We're both generalists and specialists, and design titles can be confusing from the outside. So instead of thinking about which design roles we have at CA, let's reframe our thinking to what the design team does.
 
 ### What we do
-+ Systems: the underlying architecture that powers services. {1}{show ***first***}
-+ Processes: how people and information move through a service. {2}{show ***second***}
-+ Structures: content and data models, information architecture, and decision paths. {3}{show ***third***}
-+ Governance: how content, patterns, and services are maintained. {4}{show ***fourth***}
-+ Content: what people read, hear, understand, and interact with. {5}{show ***fifth***}
-+ Interactions: how people engage with tools, forms, and flows. {6}{show ***sixth***}
-+ Data experiences: how information is collected, displayed, and understood. {7}{show ***seventh***}
-+ Connections: between people, systems, policies, and touchpoints. {8}{show ***eighth***}
-+ Trust: by making services clear, inclusive, and accessible. {9}{show ***ninth***}
-+ Outcomes: not just artifacts but real-world impact for users and agencies. {10}{show ***tenth***}
+{{1}} Systems: the underlying architecture that powers services. 
+{{2}} Processes: how people and information move through a service. 
+{{3}} Structures: content and data models, information architecture, and decision paths.
+{{4}} Governance: how content, patterns, and services are maintained.
+{{5}} Content: what people read, hear, understand, and interact with.
+{{6}} Interactions: how people engage with tools, forms, and flows.
+{{7}} Data experiences: how information is collected, displayed, and understood.
+{{8}} Connections: between people, systems, policies, and touchpoints.
+{{9}} Trust: by making services clear, inclusive, and accessible.
+{{10}} Outcomes: not just artifacts but real-world impact for users and agencies. 
+
 ## HCD in our Quality Management System
 <img width="473" height="261" alt="CA quality management policy" src="https://github.com/user-attachments/assets/077fbd05-3abf-45fd-b35a-961c10c26e7e" />
 
