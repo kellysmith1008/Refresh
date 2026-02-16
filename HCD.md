@@ -77,26 +77,33 @@ The CivicActions design team brings over 150 years of experience collectively, a
 ### HCD demonstrated
 ?[HCDdemonstrated.webm](https://github.com/user-attachments/assets/12aa24ef-209e-4280-93bf-083e9c9305c3)
 
-<img width="574" height="261" alt="Examples include training, certifications, and prodev" src="https://github.com/user-attachments/assets/db83b4dd-2377-4784-9cdc-823ac7212205" />
+You might be asking, "How can we demonstrate our HCD competency?"</br> 
+<img width="101" height="91" alt="image" src="https://github.com/user-attachments/assets/67009a9b-f2b3-4985-9170-24e7197df425" /> 
 
-You might be asking, "How can we demonstrate our HCD competency?" One way is by providing this HCD training. This training is mandatory for all employees to ensure they understand what HCD is and how to incorporate it into their practice areas. We share our best practices across the company so that everyone is an HCD advocate.</br>
+One way is by providing this HCD training. This training is mandatory for all employees to ensure they understand what HCD is and how to incorporate it into their practice areas. We share our best practices across the company so that everyone is an HCD advocate.</br>
+<img width="101" height="91" alt="image" src="https://github.com/user-attachments/assets/1b2e3379-4593-4545-9f03-98c2cda41e3f" /> 
+
 But we don't stop there. We also expand our certifications beyond the design umbrella, bringing our HCD knowledge and expertise into them. For example, some of our designers are also Drupal Site Builder certified. Some of our designers have earned their Certified Professional in Accessibility Core Competencies (CPACC) certifications.</br>
+<img width="101" height="91" alt="image" src="https://github.com/user-attachments/assets/60822ed8-6155-44bc-8da8-b8e988ae1229" /> 
+
 Additionally, we continuously pursue professional development opportunities, including courses in data science, AI, analytics, and more. Bringing the HCD lens to these new certifications and courses helps bridge the gap across practice areas here at CA.
 
 ### QMS relevance
 ?[QMSrelevance.webm](https://github.com/user-attachments/assets/c502f6bd-15aa-48bd-9147-5a70ad1bf63f)
 
-<img width="573" height="250" alt="HCD is a core component of our QMS" src="https://github.com/user-attachments/assets/fd9b6bbe-8e89-42e5-ae16-8d72d4481e9b" />
+Human-centered design:
 
-So why is human-centered design a core component of our QMS? Well, ISO 9001 emphasizes understanding customer needs, meeting requirements, and improving satisfaction. HCD provides the operational method for doing this consistently. HCD:
+<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/96ab5672-881a-4904-bc31-5dc0e8786048" /> Reduces defects, rework, and downstream risk.
 
-<!-- incremental -->
-+ Reduces defects, rework, and downstream risk.
-+ Improves consistency and repeatability.
-+ Enhances stakeholder engagement and communication.
-+ Drives continual improvement.
-+ Supports objective, evidence-based decision making.
-+ Strengthens outcomes for mission-critical, high-impact services. 
+<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/58449c84-4d7b-4e1b-ab46-764b261c2d55" /> Improves consistency and repeatability.
+
+<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/3eca2868-00cd-44e5-b233-6b525f0b1496" /> Enhances stakeholder engagement and communication.
+
+<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/55c6d8ff-4bc4-44bb-84f9-3fa46c33e293" /> Drives continual improvement.
+
+<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/4e892f8d-0b1c-499a-9fd4-0c9df25f706c" /> Supports objective, evidence-based decision making.
+
+<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/f2727304-5502-4ce4-8d76-05703a68efbd" /> Strengthens outcomes for mission-critical, high-impact services. 
 
 ## The International Standard
 ?[ISOstandard.webm](https://github.com/user-attachments/assets/287e0847-10d8-4679-9956-425525c10155)
