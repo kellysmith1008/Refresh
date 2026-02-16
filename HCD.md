@@ -6,29 +6,45 @@ Welcome to the Human-Centered Design training. In this module, we'll define huma
 ## Overview
 ?[Overview.webm](https://github.com/user-attachments/assets/7a327c59-42be-4649-a95a-c98d1c3ddcf0)
 
-<img width="602" height="316" alt="agenda" src="https://github.com/user-attachments/assets/71b8504f-a818-4deb-b716-ca6ce25fcb06" />
-Let's take a look at the topics we'll cover in this training. We'll talk about what Human-Centered Design (HCD) is, the standards that can ground us, and what each of us can do to continuously put real people at the center of our delivery. We'll close by highlighting our Design Amplifier Award and we'll share how you can nominate someone for it. Let's get started!
+* What HCD is
+* Our standards
+* How you can contribute
+* Design amplifier award
 
 ## What Is Design?
 ?[Whatisdesign.webm](https://github.com/user-attachments/assets/40a68326-5d36-462f-99cc-295a3eb1abff)
 
-<img width="572" height="263" alt="three groupings of design include methodologies, specialities, and artifacts" src="https://github.com/user-attachments/assets/a137d451-0d4b-4c12-81bf-7175a83c9bfe" />
-
-Let's start by zooming out to better define design. Design is a wide-ranging discipline that includes many methodologies, specialties, artifacts, and outputs. Methodologies shape how we work, including design thinking, lean UX, the jobs-to-be-done framework, and more. Design specialties include service design, information architecture, UX design, user research, and more. Design artifacts are deliverables such as wireframes, personas, journey maps, and design system components. These artifacts help make our designs scalable and relevant to our users.
+| Design Methods | Design Specialties | Design Artifacts |
+| :--------------------: |:--------------------:| :--------------------:|
+| Design thinking | Service design | Wireframes |
+| Lean UX | Content design | User flows |
+| Agile UX | Content strategy | Prototypes |
+| Double diamond | Information architecture | Personas |
+| Jobs-to-be-done | Interaction design | Journey maps |
+| Object-oriented design | UX design | Sitemaps |
+| Actor-network theory | Product design | Content models |
+| Participatory design | User research | Design system components |
 
 ## Human-Centered Design
 ?[HCD.webm](https://github.com/user-attachments/assets/6913aee3-401d-4e5d-858d-41cbe5583879)
 
-<img width="570" height="264" alt="HCD at CivicActions includes considering user needs, experiences, constraints, usability, accessibility, and practical application" src="https://github.com/user-attachments/assets/557f5928-47c3-4316-a9c2-482ac2fecde6" />
-
-Human-centered design is the approach we use to solve problems by keeping the user at the forefront of our designs. We consider the lived experiences, needs, and constraints of those who use or deliver government services. It's how we ensure the digital government work we do is usable, accessible, practical, and scalable in the real public-sector environments. But how do we apply HCD practices to our designs?
+<img width="558" height="208" alt="Needs, experiences, constraints, usable, practical, accessible HCD practices" src="https://github.com/user-attachments/assets/73fb1e5b-0828-4042-91e2-960de2f64928" />
 
 ### The HCD umbrella
 ?[HCDumbrella.webm](https://github.com/user-attachments/assets/e3e36500-2581-4f3e-8df7-ab71615a0259)
 
-<img width="572" height="263" alt="three groupings of design include methodologies, specialities, and artifacts" src="https://github.com/user-attachments/assets/a137d451-0d4b-4c12-81bf-7175a83c9bfe" />
+| Design Methods | Design Specialties | Design Artifacts |
+| :--------------------: |:--------------------:| :--------------------:|
+| Design thinking | Service design | Wireframes |
+| Lean UX | Content design | User flows |
+| Agile UX | Content strategy | Prototypes |
+| Double diamond | Information architecture | Personas |
+| Jobs-to-be-done | Interaction design | Journey maps |
+| Object-oriented design | UX design | Sitemaps |
+| Actor-network theory | Product design | Content models |
+| Participatory design | User research | Design system components |
 
-Let's take another look at the slide that showed the methodologies, specialties, and artifacts to help illustrate how we practice HCD. We treat HCD as the overarching approach that unifies all our methods, practices, and ways of working. No matter which design method we use or which discipline we apply, our work always centers around real people and real experiences. 
+We treat HCD as the overarching approach that unifies all our methods, practices, and ways of working. No matter which design method we use or which discipline we apply, our work always centers around real people and real experiences. 
 
 ## Design at CivicActions
 ?[DesignatCA.webm](https://github.com/user-attachments/assets/6ed55578-a2c2-49e8-97bd-4e5fcfd69482)
