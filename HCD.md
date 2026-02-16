@@ -41,6 +41,7 @@ Design at CivicActions spans many dimensions. We're both generalists and special
 ?[whatwedo.webm](https://github.com/user-attachments/assets/adabf5b1-eaf0-45b3-b535-5ec36311e523)
 
 The CivicActions design team brings over 150 years of experience collectively and our speciality skills span everything from pixel-perfect wireframes to end-to-end service delivery designs. On each of our projects, we design or help inform the following:
+<!-- incremental -->
 * Systems: the underlying architecture that powers services. 
 * Processes: how people and information move through a service. 
 * Structures: content and data models, information architecture, and decision paths.
@@ -128,6 +129,7 @@ Outputs typically include personas, journey maps, workflow diagrams, environment
 <img width="333" height="210" alt="Specify user requirements" src="https://github.com/user-attachments/assets/69822d25-1818-4a64-b363-d4cbdc171294" />
 
 The next activity is "Specify user requirements." In the first activity, you specified the context, now you'll articulate the following requirements:
+<!-- incremental -->
 * Functional
 * Usability
 * Experience or emotional
@@ -143,6 +145,7 @@ This activity focuses on what must be true for the design to be successful, not 
 <img width="333" height="210" alt="Produce design solutions" src="https://github.com/user-attachments/assets/9b405308-aeed-4c9c-ad35-5ab14cd50d1a" />
 
 The third activity is "Produce design solutions." Design solutions evolve from conceptual to detailed:
+<!-- incremental -->
 * Concept development
 * Information architecture
 * Wireframes
@@ -158,6 +161,7 @@ This activity emphasizes traceability back to user needs.
 <img width="333" height="210" alt="Evaluate designs against requirements" src="https://github.com/user-attachments/assets/0e936879-a6ca-46fd-b70a-6dea16b97440" />
 
 The last activity is "Evaluate designs against requirements." Evaluations must:
+<!-- incremental -->
 * Involve users directly.
 * Use explicit criteria based on user requirements.
 * Produce evidence that the design meets user needs.
@@ -180,24 +184,28 @@ HCD must fit into agile, waterfall, or hybrid structures without being sidelined
 Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
 
 ### What is Human-Centered Design at CivicActions?
+<!-- data-randomize -->
 - [( )] A set of design deliverables
 - [(X)] A mindset and approach that grounds decisions in the lived experiences of real users
 - [( )] A visual design method
 - [( )] A step-by-step project management process
 
 ### Which international standard outlines the required activities and principles of a human-centered design process?
+<!-- data-randomize -->
 - [( )] ISO 9001
 - [( )] CMMI Level 3
 - [(X)] ISO 9241-210
 - [( )] WCAG 2.2
 
 ### Which of the following is one of the four required HCD activities per ISO 9241-210?
+<!-- data-randomize -->
 - [[X]] Specify user requirements
 - [[ ]] Develop a project charter
 - [[ ]] Build production-ready code
 - [[ ]] Conduct stakeholder retrospectives
 
 ### What's one reason HCD strengthens CivicActions' Quality Management System (QMS)??
+<!-- data-randomize -->
 - [( )] It reduces the need for user involvement
 - [( )] It increases documentation volume
 - [( )] It replaces the need for project planning
@@ -343,6 +351,7 @@ Lastly, if your team starts saying any of the following or similar phrases, it s
 Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
 
 ### Which roles share responsibility for practicing HCD at CivicActions? (select all that apply)
+<!-- data-randomize -->
 - [[ ]] Contracting officer
 - [[X]] Project manager
 - [[X]] Frontend engineer
@@ -352,6 +361,7 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 - [[X]] Backend engineer
 
 ### Which phrase is a red flag indicating the team may be deviating from HCD?
+<!-- data-randomize -->
 - [( )] "Let's validate this with users."
 - [( )] "What evidence do we have for this?"
 - [(X]] "We think the user will probably..."
@@ -392,12 +402,14 @@ This isn't a design award. It's a teamwork award that celebrates HCD leadership 
 Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
 
 ### Why should teams involve the design team when experimenting with AI-generated assets?
+<!-- data-randomize -->
 - [( )] Designers must approve all tool usage
 - [( )] AI can't create visuals
 - [( ]] AI is only used for backend development
 - [(X)] Humans must remain in the review loop for any client-facing or public-facing visual assets
 
 ### What is the purpose of the new Design Amplifier Award?
+<!-- data-randomize -->
 - [(X)] To celebrate HCD leadership and collaboration across all roles
 - [( )] To recognize only visual design excellence
 - [( ]] To award designers for their deliverables
