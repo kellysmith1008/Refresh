@@ -58,31 +58,21 @@ Design at CivicActions spans many dimensions. We're both generalists and special
 
 The CivicActions design team brings over 150 years of experience collectively, and our specialty skills span everything from pixel-perfect wireframes to end-to-end service delivery designs. On each of our projects, we design or help inform the following:
 
-* Systems:
-    * the underlying architecture that powers services. 
-* Processes:
-    * how people and information move through a service. 
-* Structures:
-    * content and data models, information architecture, and decision paths.
-* Governance:
-    * how content, patterns, and services are maintained.
-* Content:
-    * what people read, hear, understand, and interact with.
-* Interactions:
-    * how people engage with tools, forms, and flows.
-* Data experiences:
-    * how information is collected, displayed, and understood.
-* Connections:
-    * between people, systems, policies, and touchpoints.
-* Trust:
-    * by making services clear, inclusive, and accessible.
-* Outcomes:
-    * not just artifacts but real-world impact for users and agencies. 
+* Systems: the underlying architecture that powers services. 
+* Processes: how people and information move through a service. 
+* Structures: content and data models, information architecture, and decision paths.
+* Governance: how content, patterns, and services are maintained.
+* Content: what people read, hear, understand, and interact with.
+* Interactions: how people engage with tools, forms, and flows.
+* Data experiences: how information is collected, displayed, and understood.
+* Connections: between people, systems, policies, and touchpoints.
+* Trust: by making services clear, inclusive, and accessible.
+* Outcomes: not just artifacts but real-world impact for users and agencies. 
 
 ## HCD in our Quality Management System
 ?[HCDinQMS.webm](https://github.com/user-attachments/assets/c13c6362-cc78-4ef9-949f-eeb8d81af5ad)
 
-> CivicActions **partners**<!-- style="color: purple" --> with government agencies to make a **positive impact**<!-- style="color: orange" --> by creating human-centered services that are **accessible to everyone**<!-- style="color: orange" -->. CivicActions' commitment to quality means not only meeting customer expectations and complying with all necessary requirements, but also exceeding quality expectations through **company culture**<!-- style="color: blue" -->, **continual improvement**<!-- style="color: mustard" -->, and **free and open technologies**<!-- style="color: green" -->.
+> CivicActions **partners**<!-- style="color: bright purple" --> with government agencies to make a **positive impact**<!-- style="color: orange" --> by creating human-centered services that are **accessible to everyone**<!-- style="color: red" -->. CivicActions' commitment to quality means not only meeting customer expectations and complying with all necessary requirements, but also exceeding quality expectations through **company culture**<!-- style="color: blue" -->, **continual improvement**<!-- style="color: yellow" -->, and **free and open technologies**<!-- style="color: green" -->.
 
 ### HCD demonstrated
 ?[HCDdemonstrated.webm](https://github.com/user-attachments/assets/12aa24ef-209e-4280-93bf-083e9c9305c3)
