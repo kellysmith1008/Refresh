@@ -7,7 +7,6 @@ Welcome to the Human-Centered Design training. In this module, we'll define huma
 ?[Overview.webm](https://github.com/user-attachments/assets/7a327c59-42be-4649-a95a-c98d1c3ddcf0)
 
 <img width="602" height="316" alt="agenda" src="https://github.com/user-attachments/assets/71b8504f-a818-4deb-b716-ca6ce25fcb06" />
-
 Let's take a look at the topics we'll cover in this training. We'll talk about what Human-Centered Design (HCD) is, the standards that can ground us, and what each of us can do to continuously put real people at the center of our delivery. We'll close by highlighting our Design Amplifier Award and we'll share how you can nominate someone for it. Let's get started!
 
 ## What Is Design?
