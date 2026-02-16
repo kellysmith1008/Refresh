@@ -41,6 +41,7 @@ Design at CivicActions spans many dimensions. We're both generalists and special
 ?[whatwedo.webm](https://github.com/user-attachments/assets/adabf5b1-eaf0-45b3-b535-5ec36311e523)
 
 The CivicActions design team brings over 150 years of experience collectively and our speciality skills span everything from pixel-perfect wireframes to end-to-end service delivery designs. On each of our projects, we design or help inform the following:
+
 <!-- incremental -->
 * Systems: the underlying architecture that powers services. 
 * Processes: how people and information move through a service. 
