@@ -77,13 +77,16 @@ The CivicActions design team brings over 150 years of experience collectively, a
 ### HCD demonstrated
 ?[HCDdemonstrated.webm](https://github.com/user-attachments/assets/12aa24ef-209e-4280-93bf-083e9c9305c3)
 
-You might be asking, "How can we demonstrate our HCD competency?"</br> 
+You might be asking, "How can we demonstrate our HCD competency?"
+
 <img width="101" height="91" alt="image" src="https://github.com/user-attachments/assets/67009a9b-f2b3-4985-9170-24e7197df425" /> 
 
-One way is by providing this HCD training. This training is mandatory for all employees to ensure they understand what HCD is and how to incorporate it into their practice areas. We share our best practices across the company so that everyone is an HCD advocate.</br>
+One way is by providing this HCD training. This training is mandatory for all employees to ensure they understand what HCD is and how to incorporate it into their practice areas. We share our best practices across the company so that everyone is an HCD advocate.
+
 <img width="101" height="91" alt="image" src="https://github.com/user-attachments/assets/1b2e3379-4593-4545-9f03-98c2cda41e3f" /> 
 
-But we don't stop there. We also expand our certifications beyond the design umbrella, bringing our HCD knowledge and expertise into them. For example, some of our designers are also Drupal Site Builder certified. Some of our designers have earned their Certified Professional in Accessibility Core Competencies (CPACC) certifications.</br>
+But we don't stop there. We also expand our certifications beyond the design umbrella, bringing our HCD knowledge and expertise into them. For example, some of our designers are also Drupal Site Builder certified. Some of our designers have earned their Certified Professional in Accessibility Core Competencies (CPACC) certifications.
+
 <img width="101" height="91" alt="image" src="https://github.com/user-attachments/assets/60822ed8-6155-44bc-8da8-b8e988ae1229" /> 
 
 Additionally, we continuously pursue professional development opportunities, including courses in data science, AI, analytics, and more. Bringing the HCD lens to these new certifications and courses helps bridge the gap across practice areas here at CA.
