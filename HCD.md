@@ -72,7 +72,7 @@ The CivicActions design team brings over 150 years of experience collectively, a
 ## HCD in our Quality Management System
 ?[HCDinQMS.webm](https://github.com/user-attachments/assets/c13c6362-cc78-4ef9-949f-eeb8d81af5ad)
 
-> CivicActions **partners**<!-- style="color: bright purple" --> with government agencies to make a **positive impact**<!-- style="color: orange" --> by creating human-centered services that are **accessible to everyone**<!-- style="color: red" -->. CivicActions' commitment to quality means not only meeting customer expectations and complying with all necessary requirements, but also exceeding quality expectations through **company culture**<!-- style="color: blue" -->, **continual improvement**<!-- style="color: yellow" -->, and **free and open technologies**<!-- style="color: green" -->.
+>> CivicActions **partners**<!-- style="color: purple" --> with government agencies to make a **positive impact**<!-- style="color: orange" --> by creating human-centered services that are **accessible to everyone**<!-- style="color: red" -->. CivicActions' commitment to quality means not only meeting customer expectations and complying with all necessary requirements, but also exceeding quality expectations through **company culture**<!-- style="color: blue" -->, **continual improvement**<!-- style="color: indigo" -->, and **free and open technologies**<!-- style="color: green" -->.
 
 ### HCD demonstrated
 ?[HCDdemonstrated.webm](https://github.com/user-attachments/assets/12aa24ef-209e-4280-93bf-083e9c9305c3)
