@@ -14,7 +14,7 @@ Welcome to the Human-Centered Design training. In this module, we'll define huma
 ## What Is Design?
 ?[Whatisdesign.webm](https://github.com/user-attachments/assets/40a68326-5d36-462f-99cc-295a3eb1abff)
 
-| Design Methods | Design Specialties | Design Artifacts |
+| Design Methodologies | Design Specialties | Design Artifacts |
 | :--------------------: |:--------------------:| :--------------------:|
 | Design thinking | Service design | Wireframes |
 | Lean UX | Content design | User flows |
