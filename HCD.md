@@ -28,7 +28,9 @@ Welcome to the Human-Centered Design training. In this module, we'll define huma
 ## Human-Centered Design
 ?[HCD.webm](https://github.com/user-attachments/assets/6913aee3-401d-4e5d-858d-41cbe5583879)
 
-<img width="558" height="208" alt="Needs, experiences, constraints, usable, practical, accessible HCD practices" src="https://github.com/user-attachments/assets/73fb1e5b-0828-4042-91e2-960de2f64928" />
+<img width="202" height="182" alt="HCD logo" src="https://github.com/user-attachments/assets/b70efebc-be67-4cdc-9a16-2e09558a923b" />
+
+Human-centered design at CivicActions is the approach we use to solve problems by keeping the user at the forefront of our designs.
 
 ### The HCD umbrella
 ?[HCDumbrella.webm](https://github.com/user-attachments/assets/e3e36500-2581-4f3e-8df7-ab71615a0259)
@@ -49,25 +51,17 @@ We treat HCD as the overarching approach that unifies all our methods, practices
 ## Design at CivicActions
 ?[DesignatCA.webm](https://github.com/user-attachments/assets/6ed55578-a2c2-49e8-97bd-4e5fcfd69482)
 
-<img width="571" height="313" alt="what does the CA design team do." src="https://github.com/user-attachments/assets/8f5897dd-d168-4045-b21b-9f8c28b764b9" />
+<img width="1104" height="200" alt="" src="https://github.com/user-attachments/assets/ffd15b94-7401-4538-9332-82afa108d76d" />
 
 Design at CivicActions spans many dimensions. We're both generalists and specialists, and design titles can be confusing from the outside. So instead of thinking about which design roles we have at CA, let's reframe our thinking to what the design team does.
 
 ### What we do
-?[whatwedo.webm](https://github.com/user-attachments/assets/adabf5b1-eaf0-45b3-b535-5ec36311e523)
+?[whatwedoatCA.webm](https://github.com/user-attachments/assets/60467824-26cd-4909-b5ea-99bf2f30085f)
 
-The CivicActions design team brings over 150 years of experience collectively, and our specialty skills span everything from pixel-perfect wireframes to end-to-end service delivery designs. On each of our projects, we design or help inform the following:
-
-* Systems: the underlying architecture that powers services. 
-* Processes: how people and information move through a service. 
-* Structures: content and data models, information architecture, and decision paths.
-* Governance: how content, patterns, and services are maintained.
-* Content: what people read, hear, understand, and interact with.
-* Interactions: how people engage with tools, forms, and flows.
-* Data experiences: how information is collected, displayed, and understood.
-* Connections: between people, systems, policies, and touchpoints.
-* Trust: by making services clear, inclusive, and accessible.
-* Outcomes: not just artifacts but real-world impact for users and agencies. 
+| Practical designs | Usable designs | Design experiences | Design needs | Accessible designs |
+| :--------------------: |:--------------------:|:--------------------:|:--------------------:| :--------------------: |
+| Design systems | Design structures | Content | Data | Trust |
+| Processes | Governance | Interactions | Connections | Outcomes |
 
 ## HCD in our Quality Management System
 ?[HCDinQMS.webm](https://github.com/user-attachments/assets/c13c6362-cc78-4ef9-949f-eeb8d81af5ad)
@@ -79,39 +73,34 @@ The CivicActions design team brings over 150 years of experience collectively, a
 
 You might be asking, "How can we demonstrate our HCD competency?"
 
-<img width="101" height="91" alt="image" src="https://github.com/user-attachments/assets/67009a9b-f2b3-4985-9170-24e7197df425" /> 
-
+<img width="210" height="180" alt="" src="https://github.com/user-attachments/assets/8d5d4fec-b7be-4737-bc54-4ad740f3bcce" />
+ 
 One way is by providing this HCD training. This training is mandatory for all employees to ensure they understand what HCD is and how to incorporate it into their practice areas. We share our best practices across the company so that everyone is an HCD advocate.
 
-<img width="101" height="91" alt="image" src="https://github.com/user-attachments/assets/1b2e3379-4593-4545-9f03-98c2cda41e3f" /> 
+<img width="210" height="180" alt="" src="https://github.com/user-attachments/assets/7ab658e1-cdc4-4af6-bc23-4a692099208f" />
 
 But we don't stop there. We also expand our certifications beyond the design umbrella, bringing our HCD knowledge and expertise into them. For example, some of our designers are also Drupal Site Builder certified. Some of our designers have earned their Certified Professional in Accessibility Core Competencies (CPACC) certifications.
 
-<img width="101" height="91" alt="image" src="https://github.com/user-attachments/assets/60822ed8-6155-44bc-8da8-b8e988ae1229" /> 
+<img width="210" height="180" alt="" src="https://github.com/user-attachments/assets/c2efed06-8d2d-48c5-8b06-e824426dda25" />
 
 Additionally, we continuously pursue professional development opportunities, including courses in data science, AI, analytics, and more. Bringing the HCD lens to these new certifications and courses helps bridge the gap across practice areas here at CA.
 
 ### QMS relevance
 ?[QMSrelevance.webm](https://github.com/user-attachments/assets/c502f6bd-15aa-48bd-9147-5a70ad1bf63f)
 
-Human-centered design:
-
-<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/96ab5672-881a-4904-bc31-5dc0e8786048" /> Reduces defects, rework, and downstream risk.
-
-<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/58449c84-4d7b-4e1b-ab46-764b261c2d55" /> Improves consistency and repeatability.
-
-<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/3eca2868-00cd-44e5-b233-6b525f0b1496" /> Enhances stakeholder engagement and communication.
-
-<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/55c6d8ff-4bc4-44bb-84f9-3fa46c33e293" /> Drives continual improvement.
-
-<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/4e892f8d-0b1c-499a-9fd4-0c9df25f706c" /> Supports objective, evidence-based decision making.
-
-<img width="50" height="41" alt="image" src="https://github.com/user-attachments/assets/f2727304-5502-4ce4-8d76-05703a68efbd" /> Strengthens outcomes for mission-critical, high-impact services. 
+| ![](image.png) | Human-centered design: |
+|---------|------------------------------|
+| <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/580d2057-cb3a-4292-885a-03de3758b8fb" /> | Reduces defects, rework, and downstream risk. |
+| <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/4ea06b7d-4009-4f1c-a381-95be4475352f" /> | Improve  consistency and repeatability.
+| <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/5b43702c-6b77-49ad-af26-73449b6545fb" /> | Enhances stakeholder engagement and communication. |
+| <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/a7d4ccd3-e619-4799-a7e6-931413a1cbb3" /> | Drives continual improvement. |
+| <img width="55" height="84" alt="image" src="https://github.com/user-attachments/assets/b96e4cf3-5b0d-48bc-9c97-59854fe14174" /> | Supports objective, evidence-based decision making. |
+| <img width="55" height="84" alt="image" src="https://github.com/user-attachments/assets/5a80d7d4-4beb-4f48-a2b9-2120026395d5" /> | Strengthens outcomes for mission-critical, high-impact services. |
 
 ## The International Standard
 ?[ISOstandard.webm](https://github.com/user-attachments/assets/287e0847-10d8-4679-9956-425525c10155)
 
-<img width="650" height="364" alt="HCD International Standard" src="https://github.com/user-attachments/assets/b226efc4-a272-439c-b04f-acb335279b0b" />
+<img width="1474" height="821" alt="Internationl Standards include understanding context, focusing on needs, incorporating feedback, and improving user experience." src="https://github.com/user-attachments/assets/0ec3e87b-5169-45f5-a873-d86673bd0905" />
 
 The International Standard for Human-Centered Design for interactive systems, ISO 9214-210, specifies what must be true of a human-centered design approach, regardless of the tools or methods a team uses. It focuses on outcomes and behaviors rather than specific deliverables. Let's take a look at the foundational principles of our HCD processes regarding this standard.
 
@@ -120,7 +109,6 @@ The International Standard for Human-Centered Design for interactive systems, IS
 
 A human-centered design process must adhere to six core principles:
 
-<!-- incremental -->
 1. Design is based on a clear understanding of users, tasks, and environments.
 2. Users are involved throughout design and development.
 3. Design is driven by, and refined through, user-centered evaluation.
@@ -131,14 +119,14 @@ A human-centered design process must adhere to six core principles:
 ### The activities
 ?[activities.webm](https://github.com/user-attachments/assets/3f8c4dd6-a173-4c93-91d1-dc1b4d43f1be)
 
-<img width="575" height="241" alt="HCD standard activities cycle" src="https://github.com/user-attachments/assets/16c0984f-963c-43be-8f49-1b76b05f3dc3" />
+<img width="778" height="412" alt="HCD standard activities cycle" src="https://github.com/user-attachments/assets/cc4db776-9d6b-4b4b-aa14-833dea65fc75" />
 
 The international standard for HCD in interactive systems defines four required activities, often shown as a cycle. You can use any methods you want as long as these four activities are demonstrably performed. We'll break down each of these four activities and provide examples over the next few slides.
 
 ### Understand and specify the context of use
 ?[firstactivity.webm](https://github.com/user-attachments/assets/426a83f5-745c-4440-a970-374433a1c02f)
 
-<img width="333" height="210" alt="Understand and specify the context of use" src="https://github.com/user-attachments/assets/0a714639-62a6-4950-9f74-3daefdf1ecac" />
+<img width="644" height="364" alt="Understand and specify the context of use" src="https://github.com/user-attachments/assets/268f0fec-e398-4a2b-9431-5e61bfa5b862" />
 
 The first activity is "Understand and specify the context of use." Tasks could include:
 * Identifying users and stakeholders
@@ -150,10 +138,11 @@ Outputs typically include personas, journey maps, workflow diagrams, environment
 ### Specify user requirements
 ?[secondactivity.webm](https://github.com/user-attachments/assets/28e2ca6e-5bf8-44eb-a3fe-9777a6be1028)
 
-<img width="333" height="210" alt="Specify user requirements" src="https://github.com/user-attachments/assets/69822d25-1818-4a64-b363-d4cbdc171294" />
+<img width="624" height="338" alt="Specify user requirements" src="https://github.com/user-attachments/assets/c31c75a3-fa13-4685-adce-29cf8bb1e344" />
+
 
 The next activity is "Specify user requirements." In the first activity, you specified the context, now you'll articulate the following requirements:
-<!-- incremental -->
+
 * Functional
 * Usability
 * Experience or emotional
@@ -166,10 +155,10 @@ This activity focuses on what must be true for the design to be successful, not 
 ### Produce design solutions
 ?[thirdactivity.webm](https://github.com/user-attachments/assets/5bca4205-5382-4430-9203-643ee80dc104)
 
-<img width="333" height="210" alt="Produce design solutions" src="https://github.com/user-attachments/assets/9b405308-aeed-4c9c-ad35-5ab14cd50d1a" />
+<img width="650" height="356" alt="Produce design solutions" src="https://github.com/user-attachments/assets/7e325d10-98d3-42aa-baea-df2b114c6d2d" />
 
 The third activity is "Produce design solutions." Design solutions evolve from conceptual to detailed:
-<!-- incremental -->
+
 * Concept development
 * Information architecture
 * Wireframes
@@ -182,10 +171,10 @@ This activity emphasizes traceability back to user needs.
 ### Evaluate designs against requirements
 ?[fourthactivity.webm](https://github.com/user-attachments/assets/d8a8e4df-346c-4cac-bfab-8c71a4d7ca36)
 
-<img width="333" height="210" alt="Evaluate designs against requirements" src="https://github.com/user-attachments/assets/0e936879-a6ca-46fd-b70a-6dea16b97440" />
+<img width="658" height="364" alt="Evaluate designs against requirements" src="https://github.com/user-attachments/assets/d82fa1ee-1d72-4376-8733-128f5d001cf1" />
 
 The last activity is "Evaluate designs against requirements." Evaluations must:
-<!-- incremental -->
+
 * Involve users directly.
 * Use explicit criteria based on user requirements.
 * Produce evidence that the design meets user needs.
@@ -245,7 +234,6 @@ Taking a human-centered approach to our solutioning and product delivery involve
 
 As a program manager, you can practice HCD by:
 
-<!-- incremental -->
 + Advocating for design staffing with stakeholders and partners.
 + Supporting shared DesignOps practices across teams.
 + Making user context a standing input to planning.
@@ -339,7 +327,7 @@ As a member of the company leadership, you can practice HCD by:
 ## When to Include Design
 ?[redflags.webm](https://github.com/user-attachments/assets/f13e0bce-6d22-4090-b308-95ff0a2aca9d)
 
-<img width="952" height="158" alt="HCD red flags" src="https://github.com/user-attachments/assets/c3544d1f-ab01-4ed6-a136-bea5b507a078" />
+<img width="234" height="184" alt="An HCD designer waving a red flag" src="https://github.com/user-attachments/assets/e7f4fea5-a07e-499d-880a-b3a71509bbfb" />
 
 The best time to include design is from the very beginning. However, if you see any of these red flags, it means you're deviating from the CivicActions approach to human-centered design. These are clear, practical indicators that should prompt project managers, engineers, product owners, or leadership to bring designers in:
 
@@ -399,7 +387,7 @@ Now that you understand the international standards and how we can all participa
 ### AI
 ?[AI.webm](https://github.com/user-attachments/assets/b802c01b-333a-43e1-b761-937d1e92ef46)
 
-<img width="536" height="300" alt="AI generated prototype" src="https://github.com/user-attachments/assets/3d3cb898-e1d7-4ae6-bff4-e90a7f40452e" />
+<img width="466" height="528" alt="AI generated website images" src="https://github.com/user-attachments/assets/867eaca0-999c-4666-9b13-5724315e0b38" />
 
 With the rapid acceleration of Artificial Intelligence, we can build high-fidelity prototypes faster than ever before. This allows us to prototype earlier and more often, get quick feedback, and validate ideas with users in mere hours instead of weeks.</br>
 This also means we'll likely begin discussing what prototype-first HCD will look like in 2026 and beyond. We also know that our clients are asking for AI-driven efficiency gains, and those can come from both the design and development sides of the house. Close collaboration with design, product, and engineering ensures AI-enhanced work meets real needs.</br>
@@ -408,14 +396,12 @@ Humans must also remain in the review loop for any client-facing or public-facin
 ### National design studio
 ?[designstudio.webm](https://github.com/user-attachments/assets/5812db86-4950-48f3-a29c-a46d21624b25)
 
-<img width="759" height="423" alt="design studio snapshot" src="https://github.com/user-attachments/assets/0331cdbc-3594-4e78-abfc-56c46fd1100c" />
+<img width="772" height="439" alt="National design studio website snapshot" src="https://github.com/user-attachments/assets/67f39b97-5d04-4bf2-87d9-6475b54ec03d" />
 
 Another important administrative priority we're monitoring is the National Design Studio. The Studio was formed in 2025, and while it's a somewhat elusive entity, we're beginning to see its influence in new bespoke government websites and its presence in other agencies related to our work at CivicActions. Most recently, a representative of theirs appeared in our Department of the Interior oral presentation.
 
 ## Design Amplifier Award
 ?[amplifier.webm](https://github.com/user-attachments/assets/95ef0dfe-75c1-4cd8-bec6-9d2ef70bdef3)
-
-<img width="225" height="87" alt="design amplifier logo" src="https://github.com/user-attachments/assets/727136c8-ec61-4bd3-a85a-4cbec0f13624" />
 
 Officially kicking off in 2026, we are proud to introduce the Design Amplifier Award. We want to formally recognize people across all roles who elevate design best practices. The award highlights behaviors such as curiosity, collaboration, user advocacy, and a willingness to engage with evidence, users, and designers.</br>
 This isn't a design award. It's a teamwork award that celebrates HCD leadership across the company. The first nominations to celebrate design amplifiers across the company open in the spring of 2026.
@@ -444,7 +430,6 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 
 Being human-centered makes us all better partners to clients. It helps us:
 
-<!-- incremental -->
 * Be proactive instead of reactive.
 * Reduce risk through early learning.
 * Guide teams toward evidence-based decisions.
