@@ -75,11 +75,11 @@ You might be asking, "How can we demonstrate our HCD competency?"
 
 <img width="210" height="180" alt="" src="https://github.com/user-attachments/assets/8d5d4fec-b7be-4737-bc54-4ad740f3bcce" />
  
-One way is by providing this HCD training. This training is mandatory for all employees to ensure they understand what HCD is and how to incorporate it into their practice areas. We share our best practices across the company so that everyone is an HCD advocate.
+One way is by providing this HCD training. This training is mandatory for all employees to ensure they understand what HCD is and how to incorporate it into their practice areas. We share our best practices across the company so that everyone is an HCD advocate. But we don't stop there.
 
 <img width="210" height="180" alt="" src="https://github.com/user-attachments/assets/7ab658e1-cdc4-4af6-bc23-4a692099208f" />
 
-But we don't stop there. We also expand our certifications beyond the design umbrella, bringing our HCD knowledge and expertise into them. For example, some of our designers are also Drupal Site Builder certified. Some of our designers have earned their Certified Professional in Accessibility Core Competencies (CPACC) certifications.
+We also expand our certifications beyond the design umbrella, bringing our HCD knowledge and expertise into them. For example, some of our designers are also Drupal Site Builder certified. Some of our designers have earned their Certified Professional in Accessibility Core Competencies (CPACC) certifications.
 
 <img width="210" height="180" alt="" src="https://github.com/user-attachments/assets/c2efed06-8d2d-48c5-8b06-e824426dda25" />
 
@@ -91,7 +91,7 @@ Additionally, we continuously pursue professional development opportunities, inc
 | ![](image.png) | Human-centered design: |
 |---------|------------------------------|
 | <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/580d2057-cb3a-4292-885a-03de3758b8fb" /> | Reduces defects, rework, and downstream risk. |
-| <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/4ea06b7d-4009-4f1c-a381-95be4475352f" /> | Improve  consistency and repeatability.
+| <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/4ea06b7d-4009-4f1c-a381-95be4475352f" /> | Improve  consistency and repeatability. |
 | <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/5b43702c-6b77-49ad-af26-73449b6545fb" /> | Enhances stakeholder engagement and communication. |
 | <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/a7d4ccd3-e619-4799-a7e6-931413a1cbb3" /> | Drives continual improvement. |
 | <img width="55" height="84" alt="image" src="https://github.com/user-attachments/assets/b96e4cf3-5b0d-48bc-9c97-59854fe14174" /> | Supports objective, evidence-based decision making. |
@@ -192,7 +192,8 @@ While the core activities are fixed, ISO 9214-210 also asserts a few supporting 
 HCD must fit into agile, waterfall, or hybrid structures without being sidelined. 
 
 ## Checkpoint quiz
-?[quizstart.webm](https://github.com/user-attachments/assets/d7c1e995-c489-4c3d-bbd7-6bf5e6d39466)
+?[quizstartinstructions.webm](https://github.com/user-attachments/assets/3b78b460-583e-4ce9-981b-3c40509427ab)
+
 
 Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
 
@@ -358,7 +359,7 @@ Lastly, if your team starts saying any of the following or similar phrases, it s
 * "We'll know if it works once it's in production."
 
 ## Checkpoint quiz
-?[quizstart.webm](https://github.com/user-attachments/assets/d7c1e995-c489-4c3d-bbd7-6bf5e6d39466)
+?[quizstartinstructions.webm](https://github.com/user-attachments/assets/3b78b460-583e-4ce9-981b-3c40509427ab)
 
 Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
 
@@ -373,10 +374,9 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 - [[X]] Backend engineer
 
 ### Which phrase is a red flag indicating the team may be deviating from HCD?
-<!-- data-randomize -->
 - [( )] "Let's validate this with users."
 - [( )] "What evidence do we have for this?"
-- [(X]] "We think the user will probably..."
+- [(X)] "We think the user will probably..."
 - [( )] "Let's schedule usability testing."
 
 ## Looking Forward
@@ -407,7 +407,7 @@ Officially kicking off in 2026, we are proud to introduce the Design Amplifier A
 This isn't a design award. It's a teamwork award that celebrates HCD leadership across the company. The first nominations to celebrate design amplifiers across the company open in the spring of 2026.
 
 ## Checkpoint quiz
-?[quizstart.webm](https://github.com/user-attachments/assets/d7c1e995-c489-4c3d-bbd7-6bf5e6d39466)
+?[quizstartinstructions.webm](https://github.com/user-attachments/assets/3b78b460-583e-4ce9-981b-3c40509427ab)
 
 Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
 
@@ -415,14 +415,14 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 <!-- data-randomize -->
 - [( )] Designers must approve all tool usage
 - [( )] AI can't create visuals
-- [( ]] AI is only used for backend development
+- [( )] AI is only used for backend development
 - [(X)] Humans must remain in the review loop for any client-facing or public-facing visual assets
 
 ### What is the purpose of the new Design Amplifier Award?
 <!-- data-randomize -->
 - [(X)] To celebrate HCD leadership and collaboration across all roles
 - [( )] To recognize only visual design excellence
-- [( ]] To award designers for their deliverables
+- [( )] To award designers for their deliverables
 - [( )] To select finalists for design conferences
 
 ## Conclusion
