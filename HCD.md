@@ -89,7 +89,7 @@ Additionally, we continuously pursue professional development opportunities, inc
 ?[QMSrelevance.webm](https://github.com/user-attachments/assets/c502f6bd-15aa-48bd-9147-5a70ad1bf63f)
 
 | ![](image.png) | Human-centered design: |
-|---------|------------------------------|
+|----|------------------------------|
 | <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/580d2057-cb3a-4292-885a-03de3758b8fb" /> | Reduces defects, rework, and downstream risk. |
 | <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/4ea06b7d-4009-4f1c-a381-95be4475352f" /> | Improve  consistency and repeatability. |
 | <img width="55" height="84" alt="" src="https://github.com/user-attachments/assets/5b43702c-6b77-49ad-af26-73449b6545fb" /> | Enhances stakeholder engagement and communication. |
