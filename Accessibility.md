@@ -18,7 +18,7 @@ What do we mean by accessibility in the digital world? Accessibility is an ongoi
 ## Benefits
 When we focus on digital products like websites, content management, and procures, everyone benefits. But let's look closer at how disability impacts the use of technology:
 
-| ![](image.png) | Disability type | Technology use
+|  | Disability type | Technology use |
 | :-----: | :---------- | :--------------------------------------- |
 | <img width="148" height="196" alt="outline of an ear" src="https://github.com/user-attachments/assets/a560a83e-1e15-44b6-abc5-f96f497ff243" /> | Hearing impairments | Deaf and hard of hearing people need **captioned videos** and **audio transcripts**. Ambient sounds should be included in transcripts when they convey context or meaning. |
 | <img width="158" height="162" alt="a person in a wheelchair" src="https://github.com/user-attachments/assets/68ac8527-515e-43dc-862a-50a4e68c5334" /> | Motor impairments | People with mobility issues or injury may navigate with **keyboard**, **stylus**, **large touch input**, **eye-tracker**, or **voice control**. |
@@ -27,8 +27,9 @@ When we focus on digital products like websites, content management, and procure
 
 It's also crucial to remember that disability isn't always permanent. An injury might cause a **temporary** motor disability. Being stressed or exhausted might create a **situational** cognitive difficulty. **Environmental** factors matter, too. Things like distractions nearby, current mental health, slow internet speed, or an outdated device can all influence how someone sees, hears, moves, or concentrates on the content. Our work must account for the full range of human experience, which includes permanent, temporary, situational, and environmental barriers. 
 
-### Assistive technology
+## Assistive technology
 Assistive technology is the hardware and software people use to interact with the digital world. Examples include screen readers for the visually impaired, voice recognition software for motor disabilities, and text-to-speech for cognitive issues. These tools are essential aids for communication and interaction.
+
 | Disability type | Assistive technology |
 | :---------- | :--------------------------------------- |
 | Hearing impairments | <ul><li>Amplified telephones</li><li>Alert systems with lights</li><li>Auto-captioning</li></ul> |
@@ -127,4 +128,50 @@ Developers are responsible for the technical foundation. Other key duties includ
 - Coding skip links and dynamic messages to be programmatically conveyed
 - Using proper CSS techniques to ensure content displays properly regardless of screen magnification
 
+## Checkpoint quiz
+?[quizstart.webm](https://github.com/user-attachments/assets/d7c1e995-c489-4c3d-bbd7-6bf5e6d39466)
 
+Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
+
+### Which of the following is not typically one of the roles listed in Accessibility Roles and Responsibilities Mapping (ARRM)?
+- [( )] Frontend developer
+- [( )] Content designer
+- [( )] Visual designer
+- [(X)] Database administrator
+
+### Which statement is true according to ARRM?
+- [( )] Developers should own every accessibility requirement because they implement it
+- [( )] All roles must have primary ownership of every accessibility task
+- [(X)] Ownership should be assigned based on which role made the decision, not just who implemented it
+- [( )] Secondary and contributor levels are optional, so you can always skip them
+
+### Which design role focuses on hover/focus behavior, wayfinding, and error feedback in forms?
+- [(X)] Human-centered designer (UX/UX Researcher)
+- [( )] Visual designer
+- [( )] Contributor
+- [( )] QA tester
+  
+### What is the main purpose of the ARRM?
+- [( )] To create new WCAG success criteria
+- [(X)] To break down accessibility responsibilities by common digital roles
+- [( )] To replace Section 508 testing
+- [( )] To provide color-contrast tools
+
+## Accessibility Quality Objectives
+As part of our ISO 9001 certification and Quality Management System (QMS) implementation, accessibility is a key quality objective in our practice area. We monitor our competency and investment in this area by tracking:
+
+- Annual team-wide training
+- Role-based training and certification
+- Opportunities for continuous improvement
+- Engagement in accessibility communities through feedback, social media posts, and speaking opportunities
+
+## Get Involved
+There are several ways to get involved in our accessibility practice area:
+
+- Pursue EdX and IAAP certifications
+- Attend our monthly accessibility practice area meetings
+- Join the active #accessibility Slack channel
+- Contribute to our accessibility site: https://accessibility.civicactions.com
+
+## Summary
+Please remember that we all have a responsibility to design, build, and ensure accessible content for all. Take some time to jot down a few ways you can start today as an accessibility champion. Thank you for playing your part in helping CivicActions deliver on our commitment to accessible digital content for all. 
