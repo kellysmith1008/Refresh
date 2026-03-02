@@ -27,6 +27,7 @@ What do we mean by accessibility in the digital world? Accessibility is an ongoi
 ?[axbenefits.webm](https://github.com/user-attachments/assets/33cde940-f736-458c-8104-863dc4d705d1)
 
 When we focus on digital products like websites, content management, and procedures, everyone benefits. But let's look closer at how disability impacts the use of technology:
+
 ?[aximpairments.webm](https://github.com/user-attachments/assets/3af3c268-cf41-4eff-9ea1-7a7d0ec51e0b)
 
 |  | Disability type | Technology use |
