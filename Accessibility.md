@@ -1,10 +1,16 @@
 # Accessibility Training
-Welcome to the Accessibility training. In this module, we'll provide the foundational knowledge you need to champion accessibility on your projects. This training is key for the awareness of everyone across the company. This training provides the context for us to understand and embrace this initiative.
+?[axwelcome.webm](https://github.com/user-attachments/assets/718b78d3-4583-4b51-9098-a474d760d57e)
+
+Welcome to the Accessibility training. In this module, we'll provide the foundational knowledge you need to champion accessibility on your projects. This training is key for the awareness of everyone across the company and provides the context for us to understand and embrace this initiative.
 
 ## Accessibility at CivicActions
+?[axatCA.webm](https://github.com/user-attachments/assets/c231d887-acc8-46fc-8af7-31bfefb2cdd7)
+
 At CivicActions, our mission is to build better public services. A core part of that mission is ensuring that everything we create, from websites to internal tools, is fully accessible. It's not just about compliance; it's about building inclusion from the very start.
 
 ## Agenda
+?[axagenda.webm](https://github.com/user-attachments/assets/160ff367-3a14-44b3-ad3c-f502eaa1ce49)
+
 Throughout this course, we'll cover
 - What accessibility is
 - Why it's important to CivicActions
@@ -13,6 +19,8 @@ Throughout this course, we'll cover
 - How you can be an accessibility champion
 
 ## Accessibility Defined
+?[axdefined.webm](https://github.com/user-attachments/assets/e0bf58b8-7ea9-4a92-b250-51988a610151)
+
 What do we mean by accessibility in the digital world? Accessibility is an ongoing process to ensure that all users, especially those with disabilities, have equal access to the website content we create. This work requires commitment at every stage: from the initial planning and design phases to the final engineering and deployment. It's a fundamental part of quality and inclusivity. 
 
 ## Benefits
