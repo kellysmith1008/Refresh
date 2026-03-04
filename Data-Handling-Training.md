@@ -103,13 +103,12 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 
 ### Match the data examples to the correct classification tier:
 
-|               | Public | Internal | Confidential | Restricted |
-|:--------------| :---: | :---: | :---: | :---: |
-| Employee login credentials | ( ) | ( ) | ( ) | (X) |
-| Payroll spreadsheet | ( ) | ( ) | ( ) | (X) |
-| Meeting notes about project timelines | ( ) | (X) | ( ) | ( ) |
-| Technical drawing from the client | ( ) | ( ) | (X) | ( ) |
-| Published product brochure | (X) | ( ) | ( ) | ( ) |
+- [[Public] (Internal) [Confidential] (Restricted)]
+- [  ( )        ( )         ( )          (X)     ] Employee login credentials
+- [  ( )        ( )         ( )          (X)     ] Payroll spreadsheet
+- [  ( )        (X)         ( )          ( )     ] Meeting notes about project timelines
+- [  ( )        ( )         (X)          ( )     ] Technical drawing from the client
+- [  (X)        ( )         ( )          ( )     ] Published product brochure
 
 ### Which of the following is an approved storage practice for confidential data?
 - [( )] Saving to a personal Dropbox account
@@ -231,13 +230,12 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 
 ### Mark the actions as compliant or non-compliant:
 
-|               | Compliant | Non-compliant |
-|:--------------| :---: | :---: | 
-| Store proposal in CUI enclave | (X) | ( ) |
-| Use named account to share proposal | (X) | ( ) | 
-| Brief a subcontractor before sharing the proposal | (X) | ( ) |
-| Share RFP via slack | ( ) | (X) |
-| Send technical diagram to the subcontractor before briefing them | ( ) | (X) |
+-[[Compliant] (Non-compliant)]
+- [  (X)        ( )         ] Storing the proposal in CUI enclave
+- [  (X)        ( )         ] Using a named account to share the proposal
+- [  (X)        ( )         ] Briefing a subcontractor before sharing the proposal
+- [  ( )        (X)         ] Sharing an RFP via Slack
+- [  ( )        (X)         ] Sending technical diagrams to the subcontractor before briefing them
 
 ### Which action is required when decommissioning a laptop that stored Confidential data??
 - [(X)] Cryptographic erasure
