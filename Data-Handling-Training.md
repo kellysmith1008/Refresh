@@ -1,5 +1,5 @@
 # Welcome
-Welcome to the Data Handling training. In this module, you’ll learn how to classify, store, and share data securely—whether you’re in engineering, sales, or management. Get ready to move beyond general awareness and master the specific technical and commercial requirements that help safeguard your organization and maintain compliance. This training is key for the awareness of everyone across the company and provides the context for us to understand and embrace this initiative.
+Welcome to the Data Handling training. In this training, you’ll learn how to classify, store, and share data securely. Get ready to move beyond general awareness and master the specific technical and commercial requirements that help safeguard CivicActions and maintain compliance. This training is key for the awareness of everyone across the company and provides the context for us to understand and embrace this initiative.
 
 ## Agenda
 - Data Classification
@@ -10,7 +10,7 @@ Welcome to the Data Handling training. In this module, you’ll learn how to cla
 - Role-specific responsibilities
 
 ## Data Classification 
-Understanding how to properly classify and handle data is essential for compliance and operational excellence. Whether you’re an engineer, manager, or part of the sales team, knowing the fundamentals of data security ensures you protect sensitive information and support your organization’s compliance goals. This lesson will give you the practical knowledge you need to confidently manage data in your daily work.
+Understanding how to properly classify and handle data is essential for compliance and operational excellence. Whether you’re an engineer, designer, manager, or part of the sales team, knowing the fundamentals of data security ensures you protect sensitive information and support CivicActions' compliance goals. Let's start by looking at the four tiers of data classification.
 
 ### Four tiers of data classification
 
