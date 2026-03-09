@@ -25,7 +25,7 @@ Understanding how to properly classify and handle data is essential for complian
 
 <img width="681" height="625" alt="a rock pyramid that has a larger rock on the bottom and gets smaller in rock size until the top rock, which is very small and likely to fall off if the rock moves" src="https://github.com/user-attachments/assets/a6295a9b-dff6-4f3c-8eca-2c0dfcf94e09" />
 
-This pyramid shows how data is classified by sensitivity and risk. Public data forms the broad base, while restricted data sits at the narrow top, representing the highest risk if mishandled. As you move up the tiers, the potential consequences of improper handling increase, making strict controls essential for confidential and restricted data.
+This pyramid shows how data is classified by sensitivity and risk. Public data forms the broad base, while restricted data sits at the narrow top and represents the highest risk if mishandled. As you move up the tiers, the potential consequences of improper handling increase, making strict controls essential for confidential and restricted data.
 
 ### Classification in practice
 
@@ -33,7 +33,7 @@ Let's look at each data type to see what types of data belong in each tier, who 
 
 | Data type | Definition | Consequences
 | :---------- | :---------------------------------------- | :---------------------------------------------- |
-| Public | Public data includes information like website content, published marketing materials, or open-source code. Anyone in the organization can access and share this data, for example, when a sales team member posts a brochure on the company website. | If mishandled, there are minimal risks.
+| Public | Public data includes information such as website content, published marketing materials, and open-source code. Anyone in the organization can access and share this data, for example, when a sales team member posts a brochure on the company website. | If mishandled, there are minimal risks.
 | Internal | Internal data covers non-sensitive internal procedures, such as meeting notes or internal process documents. Typically, employees across departments use this data, but it should not be shared outside the organization. | If mishandled, there may be minor operational disruptions, but no severe compliance consequences.
 | Confidential | Confidential data includes FCI and CUI, such as client technical drawings or sensitive contract details. Engineers and sales/contract teams often interact with this data. | If mishandled, it could jeopardize contract eligibility or lead to regulatory penalties. |
 | Restricted | Restricted data includes highly sensitive items such as payroll records, login credentials, or Social Security Numbers. Typically, only managers or HR personnel should access this data. | If mishandled, it can result in severe harm, including legal action or significant financial loss. |
@@ -82,10 +82,10 @@ Sometimes, you may come across files or documents that contain sensitive informa
    - Once labeled, store and share the data only within approved boundaries, such as designated shared drives.
 
 ## Secure Storage
-Protecting sensitive data isn’t just about knowing what information you have; it’s about how you store, share, and access it every day. Approved storage boundaries are the digital spaces where sensitive data may reside. These include company-approved cloud platforms, such as Google Workspace Shared Drives or authorized SaaS solutions. Storing data outside these boundaries—like on personal cloud accounts or local downloads—creates significant security risks, including unauthorized access, data loss, and compliance violations. Understanding and respecting these boundaries is the first step in protecting your organization’s information.
+Protecting sensitive data isn’t just about knowing what information you have; it’s about how you store, share, and access it every day. Approved storage boundaries are the digital spaces where sensitive data may reside. These include company-approved cloud platforms, such as Google Workspace Shared Drives or authorized SaaS solutions. Storing data outside these boundaries, like on personal cloud accounts or local downloads, creates significant security risks, including unauthorized access, data loss, and compliance violations. Understanding and respecting these boundaries is the first step in protecting your organization’s information.
 
 ### Storing data
-Let's take a look at where different types of data can be stored, who can access it, and what you should avoid doing when storing it.
+Let's take a look at where different types of data can be stored, who can access them, and what you should avoid when storing them.
 
 - Public data:
     - Public data is approved for release and may be shared broadly, including on public websites. However, always confirm that data is truly public before sharing outside the organization. No special storage restrictions apply, but caution is still advised.
@@ -145,34 +145,34 @@ Securing your devices is just as important as securing your data. Only company-m
 - Sales, managers, project leads, directors, and executive leadership must use company-managed devices for all work involving sensitive data. Encryption and endpoint security controls must be active at all times. Never store or access sensitive information on personal laptops or mobile devices.
 
 **All CivicActions Employees**
-- No one should ever store sensitive data on unapproved devices. Always ensure that your device meets company security standards before accessing or handling Confidential or Restricted information.
+- No one should ever store sensitive data on unapproved devices. Always ensure that your device meets company security standards before accessing or handling confidential or restricted information.
 
 ## Data Handling by Roles
 Each role in the organization has unique responsibilities for handling sensitive data. Let's take a look at some roles and examples:
 
 **Engineers**: _Secure development and secrets management_:
 
-Engineers must never use real production Confidential or CUI data in development or test environments. Instead, synthetic or masked datasets should be created and used, with masking scripts reviewed and approved. Secrets like API keys and passwords must never be stored in source code; always use the approved secrets vault.
+Engineers must never use real production confidential data or CUI data in development or test environments. Instead, synthetic or masked datasets should be created and used, with masking scripts reviewed and approved. Secrets like API keys and passwords must never be stored in source code; always use the approved secrets vault.
 - Practical Example: Using a company-approved tool to generate fake customer data for testing a new feature.
 - Common Mistake: Copying production data for testing or leaving credentials in code repositories.
 
 **Sales and contract teams**: _Handling proposals and slack restrictions_:
 
-Sales and contract teams must treat all client RFPs and technical diagrams as Confidential by default. These documents should only be stored in authorized CUI enclaves and never shared via Slack or email without proper safeguards. Slack is for coordination only—not for sharing technical data.
+Sales and contract teams must treat all client RFPs and technical diagrams as confidential by default. These documents should only be stored in authorized CUI enclaves and never shared via Slack or email without proper safeguards. Slack is for coordination only, not for sharing technical data.
 - Practical Example: Uploading a proposal to a secure document management system instead of sending it via Slack.
 - Common Mistake: Discussing sensitive details in open channels or sending unprotected files to clients or partners.
 
 **Managers**: _Data minimization and flow-down requirements_:
 
-Managers are responsible for ensuring that only necessary data is collected and that access is granted strictly on a need-to-know basis. Before sharing project data with subcontractors or partners, managers must ensure that subcontractors or partners understand and agree to all data handling protocols.
+Managers are responsible for ensuring that only necessary data is collected and that access is granted strictly on a need-to-know basis. Before sharing project data with subcontractors or partners, managers must ensure that they understand and agree to all data-handling protocols.
 - Practical Example: Briefing a new subcontractor on data handling requirements before granting access to project files.
 - Common Mistake: Failing to brief partners, leading to accidental exposure of sensitive information.
 
 ### Best practices
-Protecting sensitive data in development and test environments is critical for compliance and risk reduction. Following these steps ensures no real Confidential or CUI data is exposed during testing.
+Protecting sensitive data in development and test environments is critical for compliance and risk reduction. Following these steps ensures no real confidential or CUI data is exposed during testing.
 
 1. Never use real production data.
-   - Always avoid using actual production Confidential or CUI data in any development or test environment.
+   - Always avoid using actual production confidential data or CUI data in any development or test environment.
 2. Create synthetic or masked datasets.
    - Develop and use synthetic or masked datasets that mimic real data without exposing sensitive information.
 3. Submit masking scripts for review.
@@ -187,7 +187,7 @@ Protecting sensitive data in development and test environments is critical for c
 
 Let's take a moment to review what we've covered so far. Select the correct answer or answers for the next few questions.
 
-### You need to access Confidential data remotely. Which device and security measures are required?
+### You need to access confidential data remotely. Which device and security measures are required?
 - [( )] Personal laptop with no encryption
 - [( )] Tablet with a basic password
 - [(X)] Company-managed laptop with full-disk encryption
@@ -200,13 +200,13 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 - [[X]] Submitting masking scripts for review
 
 ## Commercial Data Handling and Flow-Down 
-Sales, contract teams, and managers play a critical role in protecting sensitive commercial information. Proposals, RFPs, and technical diagrams must always be treated as Confidential and stored in authorized locations. Before sharing any project data with subcontractors or partners, it’s essential to provide clear instructions on data handling requirements to prevent accidental exposure or mishandling.
+Everyone, from project teams to us at CivicActions, plays a critical role in protecting sensitive commercial information. Proposals, RFPs, and technical diagrams must always be treated as confidential and stored in authorized locations. Before sharing any project data with subcontractors or partners, it’s essential to provide clear instructions on data handling requirements to prevent accidental exposure or mishandling.
 
 **Proposal security**:
-- All client proposals, RFPs, and technical diagrams must be classified as Confidential by default. These documents should be stored only in the designated CUI enclave or authorized shared drives, never on personal devices or unapproved platforms. When sharing proposals, use secure, named account invitations and avoid sending files via email or Slack. This ensures only authorized recipients have access and maintains a clear audit trail.
+- All client proposals, RFPs, and technical diagrams must be classified as confidential by default. These documents should be stored only in the designated CUI enclave or authorized shared drives, never on personal devices or unapproved platforms. When sharing proposals, use secure, named account invitations and avoid sending files via email or Slack. This ensures only authorized recipients have access and maintains a clear audit trail.
 
 **Communications restrictions**:
-- Slack should only be used for coordination and not for sharing technical CUI or Confidential data. Never paste technical diagrams or sensitive details into Slack messages or channels. If technical data must be discussed, use the authorized CUI enclave or approved secure channels. This reduces the risk of accidental leaks or unauthorized access.
+- Slack should only be used for coordination and not for sharing technical CUI or confidential data. Never paste technical diagrams or sensitive details into Slack messages or channels. If technical data must be discussed, use the authorized CUI enclave or approved secure channels. This reduces the risk of accidental leaks or unauthorized access.
 
 **Flow-down requirements**:
 - Before sharing any project data with subcontractors or partners, managers must ensure they are briefed on all data handling protocols. This includes providing written instructions and confirming understanding. Never send technical or confidential data to a subcontractor before confirming they are trained and agree to follow all compliance requirements. This step is critical for maintaining contractual and regulatory obligations.
@@ -215,7 +215,7 @@ Sales, contract teams, and managers play a critical role in protecting sensitive
 Physical data security is just as important as digital safeguards. Removable media such as USB drives should be used only when absolutely necessary and always with encryption and company approval. When printing sensitive documents, minimize the number of copies, store them securely, and shred them when no longer needed. When decommissioning devices or media, cryptographic erasure ensures that data cannot be recovered, protecting your organization from accidental leaks.
 
 **Removable media**:
-- Only use removable media, such as USB drives, if absolutely necessary and with explicit company approval. All such media must be encrypted to protect sensitive data. A common mistake is using personal or unencrypted drives, which can lead to data breaches.
+- Only use removable media, such as USB drives, if absolutely necessary, and with explicit company approval. All such media must be encrypted to protect sensitive data. A common mistake is using personal or unencrypted drives, which can lead to data breaches.
 
 **Printing sensitive data**:
 - Print sensitive documents only when required, and always store them in a locked container. When no longer needed, shred documents to prevent unauthorized access. Leaving printouts unattended or in open areas is a frequent error.
@@ -231,14 +231,17 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 ### Mark the actions as compliant or non-compliant:
 
 -[[Compliant] (Non-compliant)]
-- [  (X)        ( )         ] Storing the proposal in CUI enclave
+- [  (X)        ( )         ] Storing the proposal in the CUI enclave
 - [  (X)        ( )         ] Using a named account to share the proposal
 - [  (X)        ( )         ] Briefing a subcontractor before sharing the proposal
 - [  ( )        (X)         ] Sharing an RFP via Slack
 - [  ( )        (X)         ] Sending technical diagrams to the subcontractor before briefing them
 
-### Which action is required when decommissioning a laptop that stored Confidential data??
+### Which action is required when decommissioning a laptop that stored confidential data??
 - [(X)] Cryptographic erasure
 - [( )] Simple file deletion
 - [( )] Physical destruction only
 - [( )] Doing nothing
+
+## Summary
+As we close out this training, please remember that we all have a role in ensuring the safe storage and transfer of data. Take an inventory of your data storage practices and ensure they align with our data policy. Thank you for playing your part in helping CivicActions deliver on our commitment to secure data practices.
