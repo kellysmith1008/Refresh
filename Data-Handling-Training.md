@@ -41,7 +41,7 @@ This pyramid shows how data is classified by sensitivity and risk. Public data f
 
 Let's look at each data type to see which types of data belong in each tier, who typically handles them, and what can happen if they’re mishandled.
 
-| Data type | Definition | Consequences
+| Data type | Definition | Consequences |
 | :---------- | :---------------------------------------- | :---------------------------------------------- |
 | Public | Public data includes information such as website content, published marketing materials, and open-source code. Anyone in the organization can access and share this data. | If mishandled, there are minimal risks.
 | Internal | Internal data covers non-sensitive internal procedures, such as meeting notes or internal process documents. Typically, employees across departments use this data, but it should not be shared outside the organization. | If mishandled, there may be minor operational disruptions, but no severe compliance consequences.
@@ -109,13 +109,13 @@ Protecting sensitive data isn’t just about knowing what information you have; 
 
 Let's take a look at where different types of data can be stored, who can access them, and what you should avoid when storing them.
 
-- Public data:
+- **Public data**:
     - Public data is approved for release and may be shared broadly, including on public websites. However, always confirm that data is truly public before sharing outside the organization. No special storage restrictions apply, but caution is still advised.
-- Internal data:
+- **Internal data**:
     - Internal data can be stored within company-managed drives, but should not be shared externally. While less sensitive, it still must not be placed on personal or public platforms. Access is typically limited to employees within the organization.
-- Confidential data:
+- **Confidential data**:
     - Confidential data must be stored only in company-approved shared drives or authorized SaaS platforms. Access is limited to individuals with a legitimate business need. Never download confidential files to personal devices or store them on unapproved cloud services.
-- Restricted data:
+- **Restricted data**:
     - Restricted data, such as payroll or credentials, requires the highest level of protection. Store only in designated, secure folders on approved platforms. Access is strictly controlled and monitored. Storing restricted data on local devices or personal storage is strictly forbidden.
 
 ## Checkpoint quiz
