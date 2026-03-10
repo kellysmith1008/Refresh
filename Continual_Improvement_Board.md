@@ -1,39 +1,47 @@
 # Continual Improvement Board
 
-Content: This presentation introduces the Continual Improvement Board, which is a key part of the CivicActions Quality Management System (QMS).
+Welcome to the Continual Improvement Board training. This training is key for the awareness of everyone across the company and provides the context for us to understand and embrace this initiative.
+
 ## Why Are We Implementing This?
-Content: We are implementing the Continual Improvement Board for several reasons:
-It's a part of our Quality Management System (QMS) requirements for achieving our ISO 9001 certification.
-It is vital for our growth and maturity plans as an organization.
-It helps develop a culture of continual improvement across all teams.
-It aligns with and supports our core company values: Balance, Openness, and Care.
+
+This initiative is part of a series of systems, processes, and training to support our ISO 9001 certification journey. Maturity involves standardizing existing elements, such as applying the Plan-Do-Check-Act (PDCA) cycle to a process. We're implementing the Continual Improvement Board for several reasons:
+
+- It's a part of our Quality Management System (QMS) requirements for achieving our ISO 9001 certification.
+- It's vital for our growth and maturity plans as an organization.
+- It helps develop a culture of continual improvement across all teams.
+- It aligns with and supports our core company values: Balance, Openness, and Care.
 Narrative Notes: This initiative is part of a series of systems, processes, and training to support our ISO 9001 certification journey. Maturity involves standardizing existing elements, such as taking a process and applying the Plan-Do-Check-Act (PDCA) cycle to it.
 
 ## What is the Quality Management System (QMS)?
-Content: The QMS is a collection of processes focused on monitoring key areas at CivicActions, including:
-Service delivery quality.
-Customer satisfaction.
-Fostering a continual improvement culture.
-Knowledge management and document control.
-Establishing quality objectives to manage growth and maturity.
 
-Narrative Notes: This system helps us improve our services by continually refining our practice areas and disciplines. It involves taking in all forms of feedback to manage and grow our relationships with clients, partners, and our team. Some of the specific terminology used is particular to the ISO 9001 standard, which guides our certification.
+The QMS is a collection of processes focused on monitoring key areas at CivicActions, including:
+
+- Service delivery quality.
+- Customer satisfaction.
+- Fostering a continual improvement culture.
+- Knowledge management and document control.
+- Establishing quality objectives to manage growth and maturity.
+
+The QMS helps us continually refine our practice areas and disciplines to improve our services. It involves taking in all forms of feedback to manage and grow our relationships with clients, partners, and our team. Some of the specific terminology used is particular to the ISO 9001 standard, which guides our certification.
 
 ## What is the Continual Improvement Board?
-Content: The Continual Improvement Board is a Jira board designed to submit, track, and process opportunities for improvement.
-It gives everyone at CivicActions an opportunity to improve any aspect of the company.
-It is also part of our ISO 9001 certification, helping us meet several requirements within that framework.
-Narrative Notes: It's important to understand the difference between Continuous and Continual improvement.
-Continuous means making incremental changes to existing processes in an expected, non-stop way, like ongoing, relentless application of Lean Principles.
-Continual is a broader concept, involving taking time to evaluate and assess before taking action. It's a methodical, cyclical, and phased approach that includes evaluation and planning.
-The Board is for all types of improvement opportunities, stemming from lessons learned in our services and projects, as well as internal opportunities.
+
+The Continual Improvement Board is a Jira board for submitting, tracking, and processing opportunities for improvement. It gives everyone at CivicActions an opportunity to improve any aspect of the company. It's also part of our ISO 9001 certification, helping us meet several requirements within that framework.
+
+It's important to understand the difference between Continuous and Continual improvement:
+
+**Continuous** means making incremental changes to existing processes in an expected, non-stop way, like ongoing, relentless application of Lean Principles.
+
+**Continual** is a broader concept that involves taking time to evaluate and assess before taking action. It's a methodical, cyclical, and phased approach that includes evaluation and planning.
+
+The Board is for all types of improvement opportunities stemming from lessons learned in our services and projects, as well as from internal sources.
 
 ## Opportunities for Continual Improvement
 Content: Where do we find opportunities? They can come from:
 Feedback from clients, partners, or teammates.
-Action items identified during an audit or retrospective.
+Action items are identified during an audit or retrospective.
 New ideas for process improvements.
-Quality processes themselves, including the Continual Improvement Board itself.
+Quality processes, including the Continual Improvement Board.
 
 ## Types of Tickets
 Content: There are four main types of tickets you can submit to the Board:
@@ -41,7 +49,7 @@ Feedback: Information regarding satisfaction with CivicActions services.
 Improvement Request: Inquiries from our internal team for process improvement opportunities.
 Retrospectives: A list of action items coming from a project or internal retrospective.
 Audit Findings: A list of action items resulting from an audit.
-Narrative Notes: We need to consider how this new system integrates with where we currently track this information, such as retrospective cadences. We also need to define the value this information provides in the day-to-day work and how we will circle back on entered tickets.
+Narrative Notes: We need to consider how this new system integrates with where we currently track this information, such as retrospective cadences. We also need to define the value this information provides in day-to-day work and how we will circle back on the tickets we enter.
 
 ## Feedback Tickets
 Content: Feedback can be positive, neutral, or negative.
