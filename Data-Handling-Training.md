@@ -43,8 +43,8 @@ Let's look at each data type to see which types of data belong in each tier, who
 
 | Data type | Definition | Consequences |
 | :---------- | :---------------------------------------- | :---------------------------------------------- |
-| Public | Public data includes information such as website content, published marketing materials, and open-source code. Anyone in the organization can access and share this data. | If mishandled, there are minimal risks.
-| Internal | Internal data covers non-sensitive internal procedures, such as meeting notes or internal process documents. Typically, employees across departments use this data, but it should not be shared outside the organization. | If mishandled, there may be minor operational disruptions, but no severe compliance consequences.
+| Public | Public data includes information such as website content, published marketing materials, and open-source code. Anyone in the organization can access and share this data. | If mishandled, there are minimal risks. |
+| Internal | Internal data covers non-sensitive internal procedures, such as meeting notes or internal process documents. Typically, employees across departments use this data, but it should not be shared outside the organization. | If mishandled, there may be minor operational disruptions, but no severe compliance consequences. |
 | Confidential | Confidential data includes FCI and CUI, such as client technical drawings or sensitive contract details. Engineers and sales/contract teams often interact with this data. | If mishandled, it could jeopardize contract eligibility or lead to regulatory penalties. |
 | Restricted | Restricted data includes highly sensitive items such as payroll records, login credentials, or Social Security Numbers. Typically, only managers or HR personnel should access this data. | If mishandled, it can result in severe harm, including legal action or significant financial loss. |
 
