@@ -18,7 +18,7 @@ Welcome to the Data Handling training. In this training, you’ll learn how to c
 
 Understanding how to properly classify and handle data is essential for compliance and operational excellence. Whether you’re an engineer, designer, manager, or part of the sales team, knowing the fundamentals of data security ensures you protect sensitive information and support CivicActions' compliance goals. Let's start by looking at the four tiers of data classification.
 
-### Four tiers of data classification
+### Four Tiers of Data Classification
 <img width="729" height="388" alt="four binders representing the four tiers of data classification" src="https://github.com/user-attachments/assets/4b0446dd-41c0-45bc-a7a3-d8691589ad55" />
 
 ?[4tiers.webm](https://github.com/user-attachments/assets/de855409-ef11-424d-bb3c-02da69af8896)
@@ -30,7 +30,7 @@ Understanding how to properly classify and handle data is essential for complian
 | Confidential | Includes high-stakes data like Federal Contract Information (FCI) and Controlled Unclassified Information (CUI). Disclosure could impact contract eligibility. |
 | Restricted | The most sensitive data, such as payroll, credentials, or Social Security Numbers. Unauthorized disclosure could cause severe harm. |
 
-### Data visualization
+### Data Visualization
 
 <img width="681" height="625" alt="a rock pyramid that has a larger rock on the bottom and gets smaller in rock size until the top rock, which is very small and likely to fall off if the rock moves" src="https://github.com/user-attachments/assets/a6295a9b-dff6-4f3c-8eca-2c0dfcf94e09" />
 
@@ -38,7 +38,7 @@ Understanding how to properly classify and handle data is essential for complian
 
 This pyramid shows how data is classified by sensitivity and risk. Public data forms the broad base, while restricted data sits at the top and represents the highest risk if mishandled. As you move up the tiers, the potential consequences of improper handling increase, making strict controls essential for confidential and restricted data.
 
-### Classification in practice
+### Classification in Practice
 ?[practice.webm](https://github.com/user-attachments/assets/337da55e-550c-457b-8a05-504831b7365b)
 
 Let's look at each data type to see which types of data belong in each tier, who typically handles them, and what can happen if they’re mishandled.
@@ -50,7 +50,7 @@ Let's look at each data type to see which types of data belong in each tier, who
 | Confidential | Confidential data includes FCI and CUI, such as client technical drawings or sensitive contract details. Engineers and sales/contract teams often interact with this data. | If mishandled, it could jeopardize contract eligibility or lead to regulatory penalties. |
 | Restricted | Restricted data includes highly sensitive items such as payroll records, login credentials, or Social Security Numbers. Typically, only managers or HR personnel should access this data. | If mishandled, it can result in severe harm, including legal action or significant financial loss. |
 
-### Data minimization
+### Data Minimization
 ?[minimization.webm](https://github.com/user-attachments/assets/797b21cc-5edf-4854-b469-fda4e23d550f)
 
 Data minimization means collecting and storing only the information you truly need. By limiting the amount of data you handle and favoring secure, cloud-native sharing, you reduce the risk of breaches and make compliance easier for everyone.
@@ -82,12 +82,12 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 
 For confidential and restricted data, it's essential to use electronic labels, banners, or filename tags to clearly identify sensitive information. If you receive unmarked data that may be Controlled Unclassified Information (CUI), you have a duty to report it and ensure it's properly labeled before storing and sharing it.
 
-### Recognizing proper labeling
+### Recognizing Proper Labeling
 ?[properlabel.webm](https://github.com/user-attachments/assets/b9bbc68d-de9b-479a-8717-d09c82ff4c0e)
 
 Properly labeled files in Google Workspace are easy to spot: look for banners, filename tags, or workspace labels indicating _Confidential_ or _Restricted_. If a file lacks these labels but contains sensitive information, it needs to be reported and labeled before further handling.
 
-### Handling unmarked CUI
+### Handling Unmarked CUI
 ?[handling.webm](https://github.com/user-attachments/assets/e3a40852-31f0-49b7-8792-726218e69caa)
 
 Sometimes, you may come across files or documents that contain sensitive information but do not have the required CUI markings. It's important to know how to handle such situations to ensure compliance and protect sensitive data. Follow these steps when you encounter CUI that isn't properly marked.
@@ -106,7 +106,7 @@ Sometimes, you may come across files or documents that contain sensitive informa
 
 Protecting sensitive data isn’t just about knowing what information you have; it’s about how you store, share, and access it every day. Approved storage boundaries are the digital spaces where sensitive data may reside. These include company-approved cloud platforms, such as Google Workspace Shared Drives. Storing data outside these boundaries, like on personal cloud accounts or local downloads, creates significant security risks, including unauthorized access, data loss, and compliance violations. Understanding and respecting these boundaries is the first step in protecting your organization’s information.
 
-### Storing data
+### Storing Data
 ?[storing.webm](https://github.com/user-attachments/assets/978ca801-9607-4cda-b696-e15e12eeea6e)
 
 Let's take a look at where different types of data can be stored, who can access them, and what you should avoid when storing them.
@@ -145,7 +145,7 @@ Let's take a moment to review what we've covered so far. Select the correct answ
 
 Sharing sensitive data requires strict adherence to secure protocols. The default approach is to use named accounts for sharing, never public links, and to avoid email for transmitting confidential or restricted information. When email is absolutely necessary, encryption protocols must be followed to ensure data remains protected.
 
-### Safe sharing protocols
+### Safe Sharing Protocols
 ?[sharing.webm](https://github.com/user-attachments/assets/55d5544d-481a-4c6a-b0e9-4805a48cfc17)
 
 Sharing confidential or restricted data requires careful attention to security protocols. Follow these steps to safely share confidential or restricted data and protect sensitive information from unauthorized access.
@@ -162,9 +162,6 @@ Sharing confidential or restricted data requires careful attention to security p
 Never send confidential or restricted data via standard email or attachments; use only approved secure channels.
 
 ## Device Integrity
-
-<img width="804" height="568" alt=a laptop, mobile phone, and notebook used as secured devices" src="https://github.com/user-attachments/assets/f3def7fd-fc7a-4783-952d-7dedfb697705" />
-
 ?[integrity.webm](https://github.com/user-attachments/assets/95e60e56-6041-43e9-a379-8fb7485df19a)
 
 Securing your devices is just as important as securing your data. Only company-managed hardware should be used for handling sensitive information, and all endpoints must have full-disk encryption enabled. For Controlled Unclassified Information (CUI), additional FIPS compliance is required to meet federal standards.
@@ -204,7 +201,7 @@ Managers are responsible for ensuring that only necessary data is collected and 
 - Practical Example: Briefing a new subcontractor on data handling requirements before granting access to project files.
 - Common Mistake: Failing to brief partners, leading to accidental exposure of sensitive information.
 
-### Best practices
+### Best Practices
 <img width="676" height="591" alt="2 locked file cabinets and a padlock to represent securing data correctly" src="https://github.com/user-attachments/assets/5637cf5d-15bc-42cb-b910-4169136eec86" />
 
 ?[bestpractices.webm](https://github.com/user-attachments/assets/8b59bc00-330c-4111-ba0d-4399953b09a3)
