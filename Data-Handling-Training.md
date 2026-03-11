@@ -19,6 +19,8 @@ Welcome to the Data Handling training. In this training, you’ll learn how to c
 Understanding how to properly classify and handle data is essential for compliance and operational excellence. Whether you’re an engineer, designer, manager, or part of the sales team, knowing the fundamentals of data security ensures you protect sensitive information and support CivicActions' compliance goals. Let's start by looking at the four tiers of data classification.
 
 ### Four tiers of data classification
+<img width="729" height="388" alt="four binders representing the four tiers of data classification" src="https://github.com/user-attachments/assets/4b0446dd-41c0-45bc-a7a3-d8691589ad55" />
+
 ?[4tiers.webm](https://github.com/user-attachments/assets/de855409-ef11-424d-bb3c-02da69af8896)
 
 | Data type | Definition | 
@@ -160,6 +162,9 @@ Sharing confidential or restricted data requires careful attention to security p
 Never send confidential or restricted data via standard email or attachments; use only approved secure channels.
 
 ## Device Integrity
+
+<img width="804" height="568" alt=a laptop, mobile phone, and notebook used as secured devices" src="https://github.com/user-attachments/assets/f3def7fd-fc7a-4783-952d-7dedfb697705" />
+
 ?[integrity.webm](https://github.com/user-attachments/assets/95e60e56-6041-43e9-a379-8fb7485df19a)
 
 Securing your devices is just as important as securing your data. Only company-managed hardware should be used for handling sensitive information, and all endpoints must have full-disk encryption enabled. For Controlled Unclassified Information (CUI), additional FIPS compliance is required to meet federal standards.
@@ -200,6 +205,8 @@ Managers are responsible for ensuring that only necessary data is collected and 
 - Common Mistake: Failing to brief partners, leading to accidental exposure of sensitive information.
 
 ### Best practices
+<img width="676" height="591" alt="2 locked file cabinets and a padlock to represent securing data correctly" src="https://github.com/user-attachments/assets/5637cf5d-15bc-42cb-b910-4169136eec86" />
+
 ?[bestpractices.webm](https://github.com/user-attachments/assets/8b59bc00-330c-4111-ba0d-4399953b09a3)
 
 Protecting sensitive data in development and test environments is critical for compliance and risk reduction. Follow these steps to ensure no real confidential or CUI data is exposed during testing.
@@ -247,6 +254,8 @@ Everyone, from project teams to us at CivicActions, plays a critical role in pro
 - Before sharing any project data with subcontractors or partners, managers must ensure they are briefed on all data handling protocols. This includes providing written instructions and confirming understanding. Never send technical or confidential data to a subcontractor before confirming they are trained and agree to follow all compliance requirements. This step is critical for maintaining contractual and regulatory obligations.
 
 ## Media Handling and Device Sanitization
+<img width="726" height="299" alt="a person using a removable drive next to a person shredding a document" src="https://github.com/user-attachments/assets/3e6a2241-c455-4982-acf4-6b06eb8d918c" />
+
 ?[media.webm](https://github.com/user-attachments/assets/2f23870a-ba25-461a-b288-19f3b045b3c9)
 
 Physical data security is just as important as digital safeguards. Let's take a look at handling removable media, printing sensitive data, and device sanitization. 
