@@ -102,7 +102,7 @@ Sometimes, you may come across files or documents that contain sensitive informa
 ## Secure Storage
 ?[storage.webm](https://github.com/user-attachments/assets/ea445e26-d380-4d1c-8cc0-c4d8787ef075)
 
-Protecting sensitive data isn’t just about knowing what information you have; it’s about how you store, share, and access it every day. Approved storage boundaries are the digital spaces where sensitive data may reside. These include company-approved cloud platforms, such as Google Workspace Shared Drives or authorized SaaS solutions. Storing data outside these boundaries, like on personal cloud accounts or local downloads, creates significant security risks, including unauthorized access, data loss, and compliance violations. Understanding and respecting these boundaries is the first step in protecting your organization’s information.
+Protecting sensitive data isn’t just about knowing what information you have; it’s about how you store, share, and access it every day. Approved storage boundaries are the digital spaces where sensitive data may reside. These include company-approved cloud platforms, such as Google Workspace Shared Drives. Storing data outside these boundaries, like on personal cloud accounts or local downloads, creates significant security risks, including unauthorized access, data loss, and compliance violations. Understanding and respecting these boundaries is the first step in protecting your organization’s information.
 
 ### Storing data
 ?[storing.webm](https://github.com/user-attachments/assets/978ca801-9607-4cda-b696-e15e12eeea6e)
@@ -170,7 +170,7 @@ Securing your devices is just as important as securing your data. Only company-m
 **Sales and managers**
 - Sales, managers, project leads, directors, and executive leadership must use company-managed devices for all work involving sensitive data. Encryption and endpoint security controls must be active at all times. Never store or access sensitive information on personal laptop or mobile devices.
 
-**All CivicActions Employees**
+**All CivicActions employees and contractors**
 - No one should ever store sensitive data on unapproved devices. Always ensure that your device meets company security standards before accessing or handling confidential or restricted information.
 
 ## Data Handling by Roles
@@ -252,7 +252,7 @@ Everyone, from project teams to us at CivicActions, plays a critical role in pro
 Physical data security is just as important as digital safeguards. Let's take a look at handling removable media, printing sensitive data, and device sanitization. 
 
 **Removable media**:
-- Only use removable media, such as USB drives, if absolutely necessary, and with explicit company approval. All such media must be encrypted to protect sensitive data.
+- Only use removable media, such as USB drives, if absolutely necessary, and with explicit company approval. All such media must be encrypted to protect sensitive data. Generally speaking, removable media is disallowed.
 
 **Printing sensitive data**:
 - Print sensitive documents only when required, and always store them in a locked container. When no longer needed, shred documents to prevent unauthorized access.
