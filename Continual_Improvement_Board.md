@@ -10,7 +10,6 @@ This initiative is part of a series of systems, processes, and training to suppo
 - It's vital for our growth and maturity plans as an organization.
 - It helps develop a culture of continual improvement across all teams.
 - It aligns with and supports our core company values: Balance, Openness, and Care.
-Narrative Notes: This initiative is part of a series of systems, processes, and training to support our ISO 9001 certification journey. Maturity involves standardizing existing elements, such as taking a process and applying the Plan-Do-Check-Act (PDCA) cycle to it.
 
 ## What is the Quality Management System (QMS)?
 
@@ -37,60 +36,73 @@ It's important to understand the difference between Continuous and Continual imp
 The Board is for all types of improvement opportunities stemming from lessons learned in our services and projects, as well as from internal sources.
 
 ## Opportunities for Continual Improvement
-Content: Where do we find opportunities? They can come from:
-Feedback from clients, partners, or teammates.
-Action items are identified during an audit or retrospective.
-New ideas for process improvements.
-Quality processes, including the Continual Improvement Board.
+
+_Where do we find opportunities?_ They can come from:
+
+- Feedback from clients, partners, or teammates.
+- Action items are identified during an audit or retrospective.
+- New ideas for process improvements.
+- Quality processes, including the Continual Improvement Board.
 
 ## Types of Tickets
-Content: There are four main types of tickets you can submit to the Board:
-Feedback: Information regarding satisfaction with CivicActions services.
-Improvement Request: Inquiries from our internal team for process improvement opportunities.
-Retrospectives: A list of action items coming from a project or internal retrospective.
-Audit Findings: A list of action items resulting from an audit.
-Narrative Notes: We need to consider how this new system integrates with where we currently track this information, such as retrospective cadences. We also need to define the value this information provides in day-to-day work and how we will circle back on the tickets we enter.
+We need to consider how this new system integrates with where we currently track this information, such as retrospective cadences. We also need to define the value this information provides in day-to-day work and how we will circle back on the tickets we enter.
+
+There are four main types of tickets you can submit to the Board:
+
+- Feedback: Information regarding satisfaction with CivicActions services.
+- Improvement Request: Inquiries from our internal team for process improvement opportunities.
+- Retrospectives: A list of action items coming from a project or internal retrospective.
+- Audit Findings: A list of action items resulting from an audit.
 
 ## Feedback Tickets
-Content: Feedback can be positive, neutral, or negative.
-Sources include clients, partners, government, industry, or our own team members.
-Any relevant information or artifacts can be attached to the ticket.
+We're creating a central repository of feedback for many of our existing processes. Feedback is collected through various channels, including email, Slack, surveys, meetings, complaints, marketing, and informal communication. Capturing this helps us monitor client satisfaction and manage relationships.
+
+- Feedback can be positive, neutral, or negative.
+- Sources include clients, partners, government, industry, or our own team members.
+- Any relevant information or artifacts can be attached to the ticket.
+
 Crucially, feedback can be the starting point for identifying opportunities for improvement.
-Narrative Notes: We are creating a central repository of feedback for many of the processes we already have. Feedback is collected through various channels like email, Slack, surveys, meetings, complaints, marketing, or informal communication. Capturing this helps us monitor client satisfaction and manage relationships.
 
 ## Improvement Request Tickets
-Content:
+
+Submitting a request doesn't mean you will get more work or that it will be resolved immediately. Compliance reviews the ticket to determine whether it's a new activity, something already in progress, or something that can be scheduled for the future. This system promotes a culture of quality by encouraging proactive team engagement.
+
 Everyone at CivicActions is encouraged to submit an improvement opportunity.
-Attach any relevant information.
-The request will be reviewed and assigned for action.
-The ticket will be updated as the process improvement progresses.
-The motto is: If you see something, say something!
-Narrative Notes: Submitting a request doesn't mean you will get more work, or that it will be resolved immediately. Compliance reviews the ticket to determine if it's a new activity, something already being worked on, or something that can be scheduled for the future. This system promotes a quality culture by encouraging proactive team engagement.
+
+- Attach any relevant information.
+- The request will be reviewed and assigned for action.
+- The ticket will be updated as the process improvement progresses.
+
+> The motto is: If you see something, say something!
 
 ## Retrospective Tickets
-Content:
-This is a way to track all retrospective activities—from project or internal retros—in one central location.
-Tickets will be created for the retrospective even if no follow-up activities are generated.
-Action items from retrospectives will focus specifically on CivicActions internal processes.
-Process Improvement sub-tickets will be created for each resulting task.
-Narrative Notes: For client retrospectives, the notes or a link to the notes document should list the activities. The goal is a summary, not a full report.
+
+For client retrospectives, the notes or a link to the notes document should list the activities. The goal is a summary, not a full report.
+Let's take a look at a few best practices to track all retrospective activities—from project retrospectives to internal retrospectives—in one central location.
+
+- Create tickets for the retro even if no follow-up activities are generated.
+- Focus action items from retros on CivicActions internal processes.
+- Create process improvement sub-tickets for each resulting task.
 
 ## Audit Finding Tickets
-Content:
-Audits can include organization, financial, internal system, and compliance-specific audits.
-Audit artifacts, such as reports and other documentation, should be linked directly in the ticket.
-Process Improvement sub-tickets will be created for each resulting task.
-Narrative Notes: Findings from audit activities are categorized into risk levels for prioritization.
+
+Findings from audit activities are categorized into risk levels for prioritization.
+
+- Audits can include organization, financial, internal system, and compliance-specific audits.
+- Audit artifacts, such as reports and other documentation, should be linked directly in the ticket.
+- Process Improvement sub-tickets will be created for each resulting task.
 
 ## Process Improvement Sub-Tickets
-Content:
+
 Not all main tickets will require a follow-up action item, but for those that do, a sub-ticket is created.
-Multiple sub-tickets can be created and tracked under a single main ticket.
-Each sub-ticket requires selecting an improvement category and an action type.
+
+- Multiple sub-tickets can be created and tracked under a single main ticket.
+- Each sub-ticket requires selecting an improvement category and an action type.
 
 ## Type of Action
-Content: (This slide is a placeholder for action types)
-Narrative Notes: The types of action include:
-Corrective Action: Remediation activities to address an issue that has already occurred.
-Preventive Action: Activities to prevent potential issues from occurring in the future.
-Root Cause Analysis: An issue requires further investigation before a decision on an action can be made.
+
+The types of action include:
+
+- Corrective Action: Remediation activities to address an issue that has already occurred.
+- Preventive Action: Activities to prevent potential issues from occurring in the future.
+- Root Cause Analysis: An issue requires further investigation before a decision on an action can be made.
