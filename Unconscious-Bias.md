@@ -1,5 +1,5 @@
 # Welcome
-Welcome to CivicActions Onboarding! As you start your journey, understanding unconscious bias is key to upholding our values of respect, integrity, and fairness.
+Welcome to our Recognizing Bias training! Bias is part of being human. But when left unexamined, it can limit our perspective, impact our work, and unintentionally exclude the very people we aim to serve.
 
 ## Understanding Bias 
 
@@ -7,10 +7,8 @@ _**Why this matters**_
 
 At CivicActions, we design and build digital services that serve real people—across backgrounds, identities, and lived experiences. The decisions we make every day—what we prioritize, how we communicate, what we design—are shaped by how we see the world.
 
-Bias is part of being human. But when left unexamined, it can limit our perspective, impact our work, and unintentionally exclude the very people we aim to serve.
-
 ## Agenda
-This section will help you:
+This course will help you:
 
 - Build awareness of your own thinking patterns
 - Understand how bias shows up in the workplace
@@ -50,7 +48,7 @@ If you're human, you have bias. Simply stated, it's unavoidable. What matters th
 > Bias is not a personal failure. It’s a result of how our brains are wired and how we are socialized over time. Our experiences, environments, media exposure, and culture all shape the bias we carry. 
 
 ## How Bias Shows Up
-Bias doesn’t just live in our thoughts. In a digital services organization like CivicActions, bias can influence our processes, decisions, and policies. Let's take a look at some examples of where bias, conscious or unconscious, can impact us:
+Bias doesn’t just live in our thoughts. In a digital services organization like CivicActions, bias can influence our processes, decisions, and policies. Let's take a look at some examples of where bias, conscious or unconscious, can impact us.
 
 ### Collaboration
 Bias can impact our collaboration by influencing:
@@ -59,7 +57,7 @@ Bias can impact our collaboration by influencing:
 - Who gets interrupted or talked over
 - Who's seen as a leader
 
-### Design and project decisions
+### Design and Project Decisions
 Bias creeps in on our designs and project decisions when:
 
 - We make assumptions about users' needs or behaviors
@@ -72,10 +70,10 @@ We emphasize unbiased decision-making, which means assessing the candidate rathe
 
 **Bias in Hiring: Key Types to Know**
 
-- _Halo Effect_: Allowing one positive impression (e.g., prestigious education) to overly influence judgment on other traits.
-- _Horn Effect_: Allowing a single negative impression (e.g., being late to an interview) to overshadow a candidate’s other traits.
-- _Affinity Bias_: Favoring those similar to oneself in background or experience, which can stunt diversity and lead to unearned advantages.
-- _Conformity Bias_: Aligning opinions with a group to fit in or avoid conflict, potentially compromising the objectivity of the hiring process.
+- _**Halo Effect**_: Allowing one positive impression (e.g., prestigious education) to overly influence judgment on other traits.
+- _**Horn Effect**_: Allowing a single negative impression (e.g., being late to an interview) to overshadow a candidate’s other traits.
+- _**Affinity Bias**_: Favoring those similar to oneself in background or experience, which can stunt diversity and lead to unearned advantages.
+- _**Conformity Bias**_: Aligning opinions with a group to fit in or avoid conflict, potentially compromising the objectivity of the hiring process.
 
 **Steps to Avoid Bias in Interviews**
 
@@ -91,9 +89,9 @@ Here are a few practical ways to start:
 
 1. Pause and reflect
 - Ask yourself:
-    - Why do I think this?
-    - What assumptions am I making?
-    - What information might I be missing?
+  - Why do I think this?
+  - What assumptions am I making?
+  - What information might I be missing?
 
 2. Slow down decision-making
 - Bias thrives in speed and ambiguity. Taking a moment to pause can lead to more thoughtful, inclusive outcomes.
@@ -107,5 +105,6 @@ Here are a few practical ways to start:
 5. Stay curious
 - Approach differences with openness instead of judgment.
 
-> _**Addressing bias is not a one-time activity; it’s an ongoing practice.**_
+
+>> **Addressing bias is not a one-time activity; it’s an ongoing practice**.
 
