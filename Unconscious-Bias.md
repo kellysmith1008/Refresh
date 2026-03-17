@@ -1,44 +1,111 @@
 # Welcome
 Welcome to CivicActions Onboarding! As you start your journey, understanding unconscious bias is key to upholding our values of respect, integrity, and fairness.
 
+## Understanding Bias 
+
+_**Why this matters**_
+
+At CivicActions, we design and build digital services that serve real people—across backgrounds, identities, and lived experiences. The decisions we make every day—what we prioritize, how we communicate, what we design—are shaped by how we see the world.
+
+Bias is part of being human. But when left unexamined, it can limit our perspective, impact our work, and unintentionally exclude the very people we aim to serve.
+
 ## Agenda
+This section will help you:
 
-- Objective
-- Definitions
-- Unconscious Bias vs. Conscious Bias
-- The “Why” Behind Bias
-- Types of Bias
-- Bias In Hiring
-- Identifying Bias
-- Learning People
-- Ways to Mitigate Bias
-- Resources
+- Build awareness of your own thinking patterns
+- Understand how bias shows up in the workplace
+- Practice simple ways to interrupt bias in real time
 
-## Objectives
+## What is Bias?
 
-- PeopleOps Official Internal Training Series
-- Define unconscious bias and explain its origins.
-- Identify different types of biases.
-- Examine how it affects decision-making and behavior.
-- Identify common biases in the interviewing process.
-- Discuss ways to mitigate bias
+Bias is a mental shortcut. Our brains process enormous amounts of information every second, so we rely on patterns and past experiences to make quick decisions. These shortcuts can be helpful, but they can also lead to unfair assumptions or incomplete thinking.
+
+Bias becomes a problem when it shapes decisions without our awareness, reinforces stereotypes, or limits who gets heard, supported, or included. 
+
+## What is Conscious Bias?
+
+Conscious bias is **intentional** and **visible**. It includes beliefs or attitudes we are aware of and can articulate. These biases are often shaped by personal values, experiences, or cultural influences.
+
+Examples:
+- Preferring to work with people who share your background
+- Making assumptions based on someone’s role, title, economic status or education level
+- Holding strong opinions about a group of people
+
+Because conscious bias is visible, it is often easier to identify and challenge.
 
 ## What is Unconscious Bias?
-Unconscious bias is the automatic mental shortcuts the brain uses to process information quickly, which can unintentionally lead to discriminatory behavior. Our brains fill in the blanks with familiar information because of the volume of data we process daily.
+Unconscious bias is **automatic** and **unintentional**. It refers to the assumptions, associations, or stereotypes that influence our thinking without us realizing it. These biases operate below the level of awareness and may not align with our stated values. They can influence decisions, interactions, and outcomes.
 
-## Unconscious vs. Conscious. 
-<img width="529" height="308" alt="a chart comparing unconscious to conscious bias" src="https://github.com/user-attachments/assets/d355c76c-a409-42cb-9311-88583f3033a9" />
+Unconscious bias can affect how we:
+- Evaluate ideas
+- Interpret behavior
+- Make hiring or design decisions
+- Communicate with teammates or clients
 
-Unconscious bias is unintentional and hard to control, while conscious bias is deliberate and aware. Both can lead to discrimination.1
-Bias in Hiring: Key Types to Know.
-Halo Effect: Allowing one positive impression (e.g., prestigious education) to overly influence judgment on other traits.1
-Horn Effect: Allowing a single negative impression (e.g., being late to an interview) to overshadow a candidate’s other traits.1
-Affinity Bias: Favoring those similar to oneself in background or experience, which can stunt diversity and lead to unearned advantages.1
-Conformity Bias: Aligning opinions with a group to fit in or avoid conflict, potentially compromising the objectivity of the hiring process.1
-Mitigation Practices at CA. We emphasize non-biased decision-making, which means assessing the candidate, not making assumptions based on a resume or appearance.1
-Steps to Avoid Bias in Interviews.
-Take detailed, accurate notes during each interview.1
-Utilize these notes and submit your scorecard immediately after the interview, before group discussion.1
-Avoid subjective phrases like how a candidate "makes you feel" or commenting on physical attributes. Focus on "culture add" or "value add" rather than a potentially biased "culture fit".1
-Use the STEP Method. When you recognize a potential bias, Stop, Think, Explore, and then Proceed with intent to learn.1
-Continuous Responsibility. Once a bias becomes conscious, you have a responsibility to mitigate it. We encourage continuous development through self-paced learning, training, and open dialogue to support diverse perspectives at CivicActions.
+In fact, many of our daily judgments are driven by unconscious processes designed to help us navigate complex environments quickly.
+
+### We All Have Bias
+If you're human, you have bias. Simply stated, it's unavoidable. What matters the most is not that we have it, but what we do about it. 
+
+> Bias is not a personal failure. It’s a result of how our brains are wired and how we are socialized over time. Our experiences, environments, media exposure, and culture all shape the bias we carry. 
+
+## How Bias Shows Up
+Bias doesn’t just live in our thoughts. In a digital services organization like CivicActions, bias can influence our processes, decisions, and policies. Let's take a look at some examples of where bias, conscious or unconscious, can impact us:
+
+### Collaboration
+Bias can impact our collaboration by influencing:
+
+- Whose ideas get attention
+- Who gets interrupted or talked over
+- Who's seen as a leader
+
+### Design and project decisions
+Bias creeps in on our designs and project decisions when:
+
+- We make assumptions about users' needs or behaviors
+- We don't consider accessibility needs and requirements
+- We don't pay attention to our language and tone choices in content
+
+## Hiring at CivicActions
+
+We emphasize unbiased decision-making, which means assessing the candidate rather than making assumptions based on a resume or appearance. You may be asked to participate in our hiring process, which may include reviewing resumes, interviewing potential candidates, and filling out a scorecard based on their interview. Avoiding bias in interviews is a critical component of our interview process. Review the key types of hiring biases below. Then follow the provided steps to avoid bias when interviewing and reviewing candidates.
+
+**Bias in Hiring: Key Types to Know**
+
+- _Halo Effect_: Allowing one positive impression (e.g., prestigious education) to overly influence judgment on other traits.
+- _Horn Effect_: Allowing a single negative impression (e.g., being late to an interview) to overshadow a candidate’s other traits.
+- _Affinity Bias_: Favoring those similar to oneself in background or experience, which can stunt diversity and lead to unearned advantages.
+- _Conformity Bias_: Aligning opinions with a group to fit in or avoid conflict, potentially compromising the objectivity of the hiring process.
+
+**Steps to Avoid Bias in Interviews**
+
+- Take detailed, accurate notes during each interview.
+- Utilize these notes and submit your scorecard immediately after the interview, before any group discussions.
+- Avoid subjective phrases like how a candidate "makes you feel" or commenting on physical attributes.
+  
+## Building New Habits
+
+Recognizing bias is the first step—but it’s not the end goal. Real impact comes from interrupting bias in the moment and building new habits.
+
+Here are a few practical ways to start:
+
+1. Pause and reflect
+- Ask yourself:
+    - Why do I think this?
+    - What assumptions am I making?
+    - What information might I be missing?
+
+2. Slow down decision-making
+- Bias thrives in speed and ambiguity. Taking a moment to pause can lead to more thoughtful, inclusive outcomes.
+
+3. Seek different perspectives
+- Actively include voices and experiences that differ from your own.
+
+4. Use structured processes
+- Clear criteria and shared standards, in hiring, design, or evaluation, help reduce bias-driven decisions.
+
+5. Stay curious
+- Approach differences with openness instead of judgment.
+
+> _**Addressing bias is not a one-time activity; it’s an ongoing practice.**_
+
