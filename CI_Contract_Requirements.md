@@ -12,15 +12,16 @@ By the end of this training, you’ll understand how contract requirements shape
 
 1. Every CivicActions project operates within a contract. That contract defines:
 
-- What we must deliver
-- When we must deliver it
-- How we report progress
+    - What we must deliver
+    - When we must deliver it
+    - How we report progress
 
 2. Contract Requirements Management ensures we:
 
-- Stay aligned with expectations
-- Meet regulatory and reporting obligations
-- Deliver high-quality, accountable work
+    - Stay aligned with expectations
+    - Meet regulatory and reporting obligations
+    - Deliver high-quality, accountable work
+
 
 Think of it as the bridge between what’s promised and what’s delivered.
 
@@ -35,10 +36,12 @@ Even if you’re not managing the contract:
 ## 🧩 Scenario Setup: Welcome to the Project
 
 You’ve just joined a CivicActions project team. During your first team meeting, you hear:
+
 > “We need to make sure we’re aligned with contract deliverables before the next status report.”
+
 You pause and think…
 
-### 🔍 Decision Point 1: What does that mean?
+### 🔍 Decision Point 1: What's my next step to align with contract deliverables?
 
 What do you do first?
 
@@ -49,15 +52,15 @@ What do you do first?
 ### 💡 Feedback
 __Answer__: Focus only on your assigned task
 
-- You may complete your task—but risk missing the bigger picture
+- Incorrect: You may complete your task, but risk missing the bigger picture
 
 __Answer__: Ask where contract requirements are tracked
 
--  ✅ Understanding where requirements live helps you connect your work to deliverables
+-  ✅ Correct! Understanding where requirements live helps you connect your work to deliverables
 
 __Answer__: Wait until someone tells you what’s needed
 
-- This can lead to missed expectations or delays
+- Incorrect: This can lead to missed expectations or delays
 
 ## Key Artifacts You’ll Encounter
 
