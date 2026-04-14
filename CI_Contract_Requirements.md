@@ -33,15 +33,15 @@ Even if you’re not managing the contract:
 - Your updates may feed into status reports.
 - Your timelines affect contractual commitments.
 
-## 🧩 Scenario Setup: Welcome to the Project
+## Scenario Setup: Welcome to the Project
 
 You’ve just joined a CivicActions project team. During your first team meeting, you hear:
 
 > “We need to make sure we’re aligned with contract deliverables before the next status report.”
 
-You pause to consider what to do next.
+You pause to think about what you'll do next.
 
-### 🔍 Decision Point 1: Project Alignment
+### Decision Point 1: Project Alignment
 
 What do you do next?
 
@@ -81,7 +81,7 @@ Projects may also use:
 
 Just like contract requirements aren't just for PMs, no single artifact tells the whole story. Healthy project communication happens when information is distributed but connected, and teams can reliably trace artifacts across systems.
 
-## 🧠 Interactive Challenge: Match the Artifact
+## Interactive Challenge: Match the Artifact
 
 Match each item to its purpose:
 
@@ -90,7 +90,7 @@ Match each item to its purpose:
 - [    [X]           [ ]             [ ]     ]  Provides legal interpretation
 - [    [ ]           [ ]             [X]     ]  Communicates progress regularly
 
-### 🔍 Decision Point 2: What’s Missing?
+### Decision Point 2: What’s Missing?
 
 Your team is tracking:
 
@@ -183,13 +183,13 @@ Even if you’re not leading this work:
 - Your deliverables may be contractually required
 - Changes in scope may affect obligations
 
-## 🚀 Choose Your Own Adventure: Project Lifecycle in Action
+## Choose Your Own Adventure: Project Lifecycle in Action
 
 You’re now attending your first project kickoff.
 
 The Project Manager is reviewing the contract.
 
-### 🔍 Decision Point 3: What Should Happen Next?
+### Decision Point 3: What Should Happen Next?
 
 What is the MOST important next step?
 
@@ -223,7 +223,7 @@ You’re now mid-project. The team is:
 
 __A contract modification is introduced.__
 
-### 🔍 Decision Point 4: What should the team do?
+### Decision Point 4: What should the team do?
 
 - [(X)] A. Update tracking artifacts and review requirements
 - [( )] B. Ignore it unless it affects your task
@@ -255,7 +255,7 @@ To demonstrate that we are meeting contract requirements, we rely on evidence ar
 
 Other artifacts include the legal wrapper and project management wrapper. 
 
-### 🔍 Decision Point 5: Proving Compliance
+### Decision Point 5: Proving Compliance
 
 Your project is undergoing a review. You’re asked:
 
