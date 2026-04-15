@@ -1,6 +1,6 @@
 # Project Retrospectives
 
-Welcome to the contract retrospectives training. In this module, we'll provide the foundational knowledge you need to successfully conduct retrospectives on our projects. This training is geared toward project managers but relevant to all CivicActions employees. It provides the context for us to understand and embrace this initiative. This course will help you:
+Welcome to the project retrospectives training. In this module, we'll provide the foundational knowledge you need to successfully conduct retrospectives on our projects. This training is geared toward project managers but relevant to all CivicActions employees. It provides the context for us to understand and embrace this initiative. This course will help you:
 
 - Understand how retrospectives work
 - Participate meaningfully regardless of role
@@ -8,21 +8,21 @@ Welcome to the contract retrospectives training. In this module, we'll provide t
 
 ## What is a Retrospective?
 
-A project retrospective is a structured, collaborative meeting held by a team to reflect on a completed project or work cycle (like a sprint) to analyze successes and failures, with the primary goal of identifying actionable improvements for future work.</br>
-</br>
-At CivicActions, **retrospectives are a core part of how we learn, improve, and collaborate**. We consider them more than just part of agile ceremonies; they are a structured way to:
+A project retrospective is a structured, collaborative meeting held by a team to reflect on a completed project or work cycle (like a sprint) to analyze successes and failures, with the primary goal of identifying actionable improvements for future work.
 
-* Reflect on what worked and what didn’t
-* Identify improvements
-* Turn insights into action
+At CivicActions, **retrospectives are a core part of how we learn, improve, and collaborate**. We consider them more than just part of agile ceremonies; they're a structured way to:
+
+- Reflect on what worked and what didn’t
+- Identify improvements
+- Turn insights into action
 
 Retrospectives happen regularly because continuous improvement is essential to delivering quality work and adapting to change. 
 
-## Why Retrospectives Matter**
+## Why Retrospectives Matter
 
 Retrospectives are built on a simple idea:
 
-> **Teams improve when they regularly reflect and adapt**.
+>> **Teams improve when they regularly reflect and adapt**.
 
 --------
 
@@ -56,7 +56,7 @@ You’ve just completed your first sprint on a project. Your Project Manager say
 
 You set the stage with...
 
-## **🔍 Decision Point 1: What is a retrospective?**
+## Decision Point 1: What is a Retrospective?
 
 - [( )] A. A performance review of team members
 - [(x)] B. A meeting to reflect on work and improve processes
