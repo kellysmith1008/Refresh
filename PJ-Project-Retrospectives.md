@@ -155,7 +155,7 @@ Put these steps in order:
 - [    [ ]           [ ]             [x]        [ ]      ]  Discuss and prioritize themes
 - [    [x]           [ ]             [ ]        [ ]      ]  Reflect on the sprint
 
-### **Checkpoint Quiz 2**
+### Checkpoint Quiz 2
 
 **1. Who should participate in a retrospective?**
 
@@ -189,7 +189,7 @@ __Answer__: Focusing only on successes
 
     - Incorrect: Balanced reflection is necessary
 
-## **⚠️ Scenario Twist: No One Follows Up**
+## ⚠️ Scenario Twist: No One Follows Up
 
 You've now just completed your fifth sprint retrospective. 
 
@@ -235,7 +235,7 @@ After the retrospective:
 - Owners are assigned
 - Progress is tracked across sprints
 
-## Interactive Challenge: Spot the Good Practice**
+## Interactive Challenge: Spot the Good Practice
 
 Which team is using retrospectives effectively?
 
