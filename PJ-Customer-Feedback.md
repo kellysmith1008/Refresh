@@ -36,15 +36,15 @@ Feedback doesn’t come from just one place, team, or stakeholder. It’s genera
 Common project sources include:
 
 - **Client status meetings**:
-    - Ongoing conversations where stakeholders share updates, concerns, and reactions
+  - Ongoing conversations where stakeholders share updates, concerns, and reactions
 - **Iteration reviews and demos**:
-    - Clients respond to what the team has built and provide approvals or changes
+  - Clients respond to what the team has built and provide approvals or changes
 - **Retrospectives**:
-    - Teams reflect on what went well and what could improve
+  - Teams reflect on what went well and what could improve
 - **CPARS evaluations**:
-    - Formal government assessments of contractor performance
+  - Formal government assessments of contractor performance
 - **Slack, Microsoft Teams, and email**:
-    - Informal, day-to-day feedback and quick reactions
+  - Informal, day-to-day feedback and quick reactions
 
 --------
 
@@ -53,15 +53,15 @@ Feedback is created through interaction, not in isolation.
 It typically happens when:
 
 - **Work is reviewed**:
-    - Clients and stakeholders see deliverables (like during demos) and respond with comments, questions, or approvals.
+  - Clients and stakeholders see deliverables (like during demos) and respond with comments, questions, or approvals.
 - **Conversations happen**:
-    - Meetings, chats, and emails naturally surface opinions, concerns, and ideas.
+  - Meetings, chats, and emails naturally surface opinions, concerns, and ideas.
 - **Teams reflect on their work**:
-    - Retrospectives and internal discussions generate feedback from project team members.
+  - Retrospectives and internal discussions generate feedback from project team members.
 - **Performance is evaluated**:
-    - Formal processes like CPARS provide structured, documented feedback.
+  - Formal processes like CPARS provide structured, documented feedback.
 - **Input is actively requested**:
-    - Teams ask for feedback during meetings, through surveys, or via dedicated channels.
+  - Teams ask for feedback during meetings, through surveys, or via dedicated channels.
 
 ### Knowledge Check 1
 
@@ -99,29 +99,29 @@ Feedback is shared across roles, meaning multiple groups both give and receive f
 ### These Groups Give Feedback
 
 - **Client stakeholders**
-    - Share input on deliverables, priorities, and overall performance
-    - Provide both formal and informal feedback
+  - Share input on deliverables, priorities, and overall performance
+  - Provide both formal and informal feedback
 
 - **Project team members**
-    - Offer insights during retrospectives and day-to-day collaboration
-    - Identify what’s working well and what needs improvement
+  - Offer insights during retrospectives and day-to-day collaboration
+  - Identify what’s working well and what needs improvement
 
 - **Partner organizations**
-    - Contribute feedback when collaborating on shared deliverables or services
+  - Contribute feedback when collaborating on shared deliverables or services
 
 ### These Groups Receive Feedback
 
 - **Project teams**
-    - Receive feedback on the work they deliver
-    - Use it to adjust and improve
+  - Receive feedback on the work they deliver
+  - Use it to adjust and improve
 
 - **Project leadership**
-    - Review feedback to guide decisions and priorities
-    - Ensure follow-up actions are defined and tracked
+  - Review feedback to guide decisions and priorities
+  - Ensure follow-up actions are defined and tracked
 
 - **CivicActions leadership**
-    - May receive escalated or high-level feedback
-    - Track broader trends and organizational improvements
+  - May receive escalated or high-level feedback
+  - Track broader trends and organizational improvements
 
 You may notice there's some overlap between those who give and receive feedback. That's intentional. Remember, feedback is a shared responsibility. It flows between clients, teams, and partners. The same people often both give and receive feedback. The main takeaway is that feedback works best when it’s open, continuous, and acted on by the right people.
 
@@ -139,17 +139,17 @@ What should you do after receiving feedback?
 While the way in which feedback is received, reviewed, and implemented may change, the process in the feedback cycle is based on 4 steps:
 
 - **Step 1: The team receives the feedback**
-    - From meetings, tools, or communication channels  
+  - From meetings, tools, or communication channels  
 
 - **Step 2: The team reviews the feedback**
-    - Discuss during ceremonies (like retrospectives or planning sessions)  
+  - Discuss during ceremonies (like retrospectives or planning sessions)  
 
 - **Step 3: The team identifies next steps** 
-    - Decide if changes are needed  
-    - Assign ownership  
+  - Decide if changes are needed  
+  - Assign ownership  
 
 - **Step 4: The team tracks the work**
-    - Create a work item in the project's tracking system
+  - Create a work item in the project's tracking system
 
 ## Evidence and Artifacts
 
